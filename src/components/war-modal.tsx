@@ -1,0 +1,72 @@
+import type { War } from '@/lib/types';
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog';
+import { ScrollArea } from '@/components/ui/scroll-area';
+import Image from 'next/image';
+import { Badge } from '@/components/ui/badge';
+import { Calendar, BookOpen, Link as LinkIcon, Tag } from 'lucide-react';
+
+interface WarModalProps {
+  war: War;
+  isOpen: boolean;
+  onClose: () => void;
+}
+
+export function WarModal({ war, isOpen, onClose }: WarModalProps) {
+  return (
+    <Dialog open={isOpen} onOpenChange={(open) => !open && onClose()}>
+      <DialogContent className="max-w-3xl h-[90svh] flex flex-col p-0">
+        <DialogHeader className="p-6 pb-0">
+          <DialogTitle className="font-headline text-2xl mb-2">{war.title}</DialogTitle>
+          <DialogDescription className="flex items-center text-base !mt-2">
+            <Calendar className="w-4 h-4 mr-2" />
+            {war.period}
+          </DialogDescription>
+        </DialogHeader>
+        <ScrollArea className="flex-grow">
+          <div className="px-6 py-4 space-y-6">
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+              {war.images.map((src, index) => (
+                <div key={index} className="relative aspect-video">
+                  <Image src={src} alt={`${war.title} - imagen ${index + 1}`} fill sizes="(max-width: 768px) 50vw, 33vw" className="rounded-md object-cover" data-ai-hint="historic war painting"/>
+                </div>
+              ))}
+            </div>
+
+            <div>
+              <h3 className="font-headline text-lg font-semibold mb-2">Descripción</h3>
+              <p className="text-muted-foreground whitespace-pre-wrap">{war.description}</p>
+            </div>
+
+            <div>
+              <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
+                <Tag className="w-4 h-4 mr-2" />
+                Etiquetas
+              </h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge variant="secondary">{war.type}</Badge>
+                {war.tags.map(tag => <Badge key={tag} variant="outline">{tag}</Badge>)}
+              </div>
+            </div>
+
+            <div>
+              <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
+                <BookOpen className="w-4 h-4 mr-2" />
+                Fuentes
+              </h3>
+              <ul className="space-y-2">
+                {war.sources.map((source, index) => (
+                  <li key={index} className="flex items-center">
+                    <LinkIcon className="w-3 h-3 mr-2 text-muted-foreground" />
+                    <a href={source} target="_blank" rel="noopener noreferrer" className="text-sm text-primary hover:underline break-all">
+                      {source}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </ScrollArea>
+      </DialogContent>
+    </Dialog>
+  );
+}
