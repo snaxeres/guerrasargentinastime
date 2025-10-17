@@ -7,6 +7,16 @@
       "type": "Guerra de independencia",
       "summary": "Conflicto armado que llevó a la emancipación de Argentina del Imperio español, marcando el nacimiento de la nación.",
       "description": "La Guerra de la Independencia Argentina fue un conflicto complejo y prolongado. Se inició con la Revolución de Mayo en 1810 y se extendió por todo el territorio del antiguo Virreinato del Río de la Plata. Las campañas militares, lideradas por figuras como Manuel Belgrano y José de San Martín, fueron cruciales para asegurar la independencia, declarada formalmente en 1816.",
+      "turningPoints": [
+        "Revolución de Mayo (1810)",
+        "Declaración de Independencia (1816)",
+        "Cruce de los Andes (1817)"
+      ],
+      "importantFigures": [
+        "José de San Martín",
+        "Manuel Belgrano",
+        "Martín Miguel de Güemes"
+      ],
       "images": ["https://picsum.photos/seed/101/600/400", "https://picsum.photos/seed/102/600/400", "https://picsum.photos/seed/103/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_Argentina"],
       "tags": ["independencia", "San Martín", "Belgrano", "siglo XIX", "España"],
@@ -19,6 +29,16 @@
       "type": "Guerra civil",
       "summary": "Serie de conflictos intermitentes entre unitarios y federales por la organización política del país.",
       "description": "Las guerras civiles argentinas fueron una larga serie de conflictos que enfrentaron a dos facciones principales: los unitarios, que abogaban por un gobierno centralizado en Buenos Aires, y los federales, que defendían la autonomía de las provincias. Estos enfrentamientos definieron la política argentina durante gran parte del siglo XIX.",
+      "turningPoints": [
+        "Batalla de Cepeda (1820)",
+        "Gobierno de Juan Manuel de Rosas",
+        "Batalla de Caseros (1852)"
+      ],
+      "importantFigures": [
+        "Juan Manuel de Rosas",
+        "Justo José de Urquiza",
+        "Juan Lavalle"
+      ],
       "images": ["https://picsum.photos/seed/104/600/400", "https://picsum.photos/seed/105/600/400", "https://picsum.photos/seed/106/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerras_civiles_argentinas"],
       "tags": ["guerra civil", "unitarios", "federales", "siglo XIX", "Rosas"],
@@ -31,6 +51,16 @@
       "type": "Guerra internacional",
       "summary": "Conflicto entre las Provincias Unidas del Río de la Plata y el Imperio del Brasil por el control de la Banda Oriental.",
       "description": "La Guerra del Brasil, también conocida como Guerra Cisplatina, se libró por la soberanía sobre la Provincia Cisplatina (actual Uruguay). Aunque Argentina obtuvo importantes victorias militares, como en la batalla de Ituzaingó, el resultado diplomático llevó a la independencia de Uruguay como un estado tapón.",
+      "turningPoints": [
+        "Batalla de Ituzaingó (1827)",
+        "Bloqueo naval de Buenos Aires",
+        "Convención Preliminar de Paz (1828)"
+      ],
+      "importantFigures": [
+        "Guillermo Brown",
+        "Carlos María de Alvear",
+        "Pedro I de Brasil"
+      ],
       "images": ["https://picsum.photos/seed/107/600/400", "https://picsum.photos/seed/108/600/400", "https://picsum.photos/seed/109/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_del_Brasil"],
       "tags": ["guerra internacional", "Brasil", "Uruguay", "siglo XIX", "Banda Oriental"],
@@ -43,6 +73,16 @@
       "type": "Guerra internacional",
       "summary": "El conflicto más sangriento de la historia de Sudamérica, donde Argentina, Brasil y Uruguay se aliaron contra Paraguay.",
       "description": "Argentina entró en la guerra después de que las tropas paraguayas invadieran Corrientes. Fue un conflicto devastador, especialmente para Paraguay, que sufrió una catástrofe demográfica. La guerra reconfiguró las fronteras y el equilibrio de poder en la región.",
+      "turningPoints": [
+        "Invasión paraguaya de Corrientes (1865)",
+        "Batalla de Curupaytí (1866)",
+        "Saqueo de Asunción (1869)"
+      ],
+      "importantFigures": [
+        "Bartolomé Mitre",
+        "Francisco Solano López",
+        "Duque de Caxias"
+      ],
       "images": ["https://picsum.photos/seed/110/600/400", "https://picsum.photos/seed/111/600/400", "https://picsum.photos/seed/112/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza"],
       "tags": ["guerra internacional", "Paraguay", "Brasil", "siglo XIX", "Corrientes"],
@@ -55,6 +95,16 @@
       "type": "Conquista militar",
       "summary": "Campaña militar liderada por Julio A. Roca para ejercer el dominio efectivo sobre los territorios de la Patagonia.",
       "description": "La campaña, justificada como una 'conquista del desierto', tuvo como objetivo expandir la frontera sur de Argentina, incorporando tierras para la producción agrícola y ganadera. Resultó en el sometimiento de los pueblos indígenas de la región, como los mapuches y tehuelches, y es un tema de profundo debate histórico.",
+      "turningPoints": [
+        "Ley de Avellaneda (1878)",
+        "Ofensiva final de Roca (1879)",
+        "Rendición de los últimos caciques"
+      ],
+      "importantFigures": [
+        "Julio Argentino Roca",
+        "Adolfo Alsina",
+        "Namuncurá"
+      ],
       "images": ["https://picsum.photos/seed/113/600/400", "https://picsum.photos/seed/114/600/400", "https://picsum.photos/seed/115/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Conquista_del_Desierto"],
       "tags": ["campaña militar", "Patagonia", "Roca", "siglo XIX", "pueblos originarios"],
@@ -67,6 +117,16 @@
       "type": "Levantamiento",
       "summary": "Revolución organizada por la Unión Cívica Radical contra el gobierno conservador, exigiendo elecciones libres.",
       "description": "La Revolución de 1893 fue un intento de la UCR, liderada por Leandro N. Alem e Hipólito Yrigoyen, de tomar el poder por las armas ante el fraude electoral sistemático del régimen oligárquico. Aunque fue sofocada, sentó las bases para la futura reforma electoral.",
+      "turningPoints": [
+        "Toma de La Plata",
+        "Intervención federal en provincias rebeldes",
+        "Suicidio de Leandro N. Alem (1896)"
+      ],
+      "importantFigures": [
+        "Leandro N. Alem",
+        "Hipólito Yrigoyen",
+        "Aristóbulo del Valle"
+      ],
       "images": ["https://picsum.photos/seed/116/600/400", "https://picsum.photos/seed/117/600/400", "https://picsum.photos/seed/118/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_1893"],
       "tags": ["levantamiento", "UCR", "siglo XIX", "fraude electoral"],
@@ -79,6 +139,16 @@
       "type": "Golpe de estado",
       "summary": "El primer golpe de Estado exitoso en Argentina, que derrocó al presidente Hipólito Yrigoyen y dio inicio a la 'Década Infame'.",
       "description": "Liderado por el general José Félix Uriburu, este golpe interrumpió el orden constitucional y estableció un gobierno militar de corte nacionalista y corporativista. Marcó el comienzo de un ciclo de inestabilidad política e intervenciones militares que duraría décadas.",
+      "turningPoints": [
+        "Derrocamiento de Yrigoyen",
+        "Instauración de la dictadura de Uriburu",
+        "Comienzo de la Década Infame"
+      ],
+      "importantFigures": [
+        "José Félix Uriburu",
+        "Hipólito Yrigoyen",
+        "Agustín P. Justo"
+      ],
       "images": ["https://picsum.photos/seed/119/600/400", "https://picsum.photos/seed/120/600/400", "https://picsum.photos/seed/121/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1930"],
       "tags": ["golpe de estado", "Uriburu", "Yrigoyen", "siglo XX", "Década Infame"],
@@ -91,6 +161,16 @@
       "type": "Golpe de estado",
       "summary": "Golpe de estado cívico-militar que derrocó al presidente Juan Domingo Perón y proscribió al peronismo.",
       "description": "Tras un fallido intento en junio con el bombardeo a la Plaza de Mayo, el golpe se concretó en septiembre de 1955. El nuevo gobierno militar, autodenominado 'Revolución Libertadora', proscribió al peronismo y a Perón, quien se exilió. Este evento profundizó la grieta política en Argentina.",
+      "turningPoints": [
+        "Bombardeo de la Plaza de Mayo (junio 1955)",
+        "Derrocamiento y exilio de Perón (septiembre 1955)",
+        "Proscripción del peronismo"
+      ],
+      "importantFigures": [
+        "Juan Domingo Perón",
+        "Eduardo Lonardi",
+        "Pedro Eugenio Aramburu"
+      ],
       "images": ["https://picsum.photos/seed/122/600/400", "https://picsum.photos/seed/123/600/400", "https://picsum.photos/seed/124/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora_(Argentina)"],
       "tags": ["golpe de estado", "Perón", "siglo XX", "proscripción"],
@@ -98,11 +178,21 @@
     },
     {
       "id": "war_1970_conflicto_interno",
-      "title": "Conflictos Armados Internos del Siglo XX",
+      "title": "Terrorismo de Estado y Guerrillas",
       "period": "1970s",
       "type": "Conflicto interno",
       "summary": "Periodo de violencia política y accionar de organizaciones guerrilleras y terrorismo de Estado.",
       "description": "La década de 1970 estuvo marcada por una escalada de violencia política, con el surgimiento de organizaciones guerrilleras como Montoneros y el ERP, y la respuesta represiva del Estado a través de la Triple A y, finalmente, la dictadura cívico-militar de 1976.",
+      "turningPoints": [
+        "Regreso de Perón (1973)",
+        "Muerte de Perón y gobierno de Isabel Martínez (1974)",
+        "Golpe de Estado de 1976"
+      ],
+      "importantFigures": [
+        "Juan Domingo Perón",
+        "Jorge Rafael Videla",
+        "Mario Firmenich"
+      ],
       "images": ["https://picsum.photos/seed/125/600/400", "https://picsum.photos/seed/126/600/400", "https://picsum.photos/seed/127/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Terrorismo_de_Estado_en_Argentina_en_las_d%C3%A9cadas_de_1970_y_1980"],
       "tags": ["conflicto interno", "guerrilla", "dictadura", "siglo XX", "terrorismo de estado"],
@@ -115,250 +205,202 @@
       "type": "Guerra internacional",
       "summary": "Conflicto armado entre Argentina y el Reino Unido por la soberanía de las Islas Malvinas, Georgias del Sur y Sandwich del Sur.",
       "description": "Iniciada por la dictadura militar argentina con la ocupación de las islas, la guerra duró 74 días y finalizó con la rendición argentina. El conflicto tuvo un alto costo en vidas y aceleró la caída del régimen militar, abriendo paso al retorno de la democracia en 1983. La soberanía de las islas sigue siendo un reclamo argentino.",
+      "turningPoints": [
+        "Operación Rosario (2 de abril)",
+        "Hundimiento del ARA General Belgrano (2 de mayo)",
+        "Rendición argentina (14 de junio)"
+      ],
+      "importantFigures": [
+        "Leopoldo Galtieri",
+        "Margaret Thatcher",
+        "Mario Benjamín Menéndez"
+      ],
       "images": ["https://picsum.photos/seed/128/600/400", "https://picsum.photos/seed/129/600/400", "https://picsum.photos/seed/130/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas"],
       "tags": ["guerra internacional", "Reino Unido", "Malvinas", "siglo XX", "dictadura"],
       "latlng": { "lat": -51.7, "lng": -59.52 }
     },
     {
-      "id": "war_placeholder_11",
-      "title": "Conflicto de Ejemplo 11",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/131/600/400", "https://picsum.photos/seed/132/600/400", "https://picsum.photos/seed/133/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -33.0, "lng": -62.0 }
-    },
-    {
-      "id": "war_placeholder_12",
-      "title": "Conflicto de Ejemplo 12",
-      "period": "XXXX–YYYY",
-      "type": "Guerra internacional",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/134/600/400", "https://picsum.photos/seed/135/600/400", "https://picsum.photos/seed/136/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -35.0, "lng": -60.0 }
-    },
-    {
-      "id": "war_placeholder_13",
-      "title": "Conflicto de Ejemplo 13",
-      "period": "XXXX–YYYY",
+      "id": "war_1918_reforma_universitaria",
+      "title": "Reforma Universitaria",
+      "period": "1918",
       "type": "Levantamiento",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/137/600/400", "https://picsum.photos/seed/138/600/400", "https://picsum.photos/seed/139/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -30.0, "lng": -61.0 }
+      "summary": "Movimiento estudiantil que exigió la modernización y democratización de las universidades.",
+      "description": "Iniciado en Córdoba, el movimiento de la Reforma Universitaria luchó por principios como la autonomía universitaria, el cogobierno estudiantil, la libertad de cátedra y la gratuidad de la enseñanza. Sus ideas se expandieron por toda América Latina, transformando la educación superior en la región.",
+      "turningPoints": [
+        "Grito de Córdoba",
+        "Intervención de la Universidad de Córdoba",
+        "Decreto de Reforma de Yrigoyen"
+      ],
+      "importantFigures": [
+        "Deodoro Roca",
+        "Enrique Barros",
+        "Hipólito Yrigoyen"
+      ],
+      "images": [
+        "https://picsum.photos/seed/191/600/400",
+        "https://picsum.photos/seed/192/600/400",
+        "https://picsum.photos/seed/193/600/400"
+      ],
+      "sources": [
+        "https://es.wikipedia.org/wiki/Reforma_universitaria_de_1918"
+      ],
+      "tags": [
+        "educación",
+        "estudiantes",
+        "UCR",
+        "siglo XX",
+        "Córdoba"
+      ],
+      "latlng": {
+        "lat": -31.417,
+        "lng": -64.183
+      }
     },
     {
-      "id": "war_placeholder_14",
-      "title": "Conflicto de Ejemplo 14",
-      "period": "XXXX–YYYY",
-      "type": "Campaña militar",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/140/600/400", "https://picsum.photos/seed/141/600/400", "https://picsum.photos/seed/142/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -37.0, "lng": -63.0 }
-    },
-    {
-      "id": "war_placeholder_15",
-      "title": "Conflicto de Ejemplo 15",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/143/600/400", "https://picsum.photos/seed/144/600/400", "https://picsum.photos/seed/145/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -29.0, "lng": -65.0 }
-    },
-    {
-      "id": "war_placeholder_16",
-      "title": "Conflicto de Ejemplo 16",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/146/600/400", "https://picsum.photos/seed/147/600/400", "https://picsum.photos/seed/148/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -28.0, "lng": -59.0 }
-    },
-    {
-      "id": "war_placeholder_17",
-      "title": "Conflicto de Ejemplo 17",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/149/600/400", "https://picsum.photos/seed/150/600/400", "https://picsum.photos/seed/151/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -40.0, "lng": -70.0 }
-    },
-    {
-      "id": "war_placeholder_18",
-      "title": "Conflicto de Ejemplo 18",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/152/600/400", "https://picsum.photos/seed/153/600/400", "https://picsum.photos/seed/154/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -42.0, "lng": -65.0 }
-    },
-    {
-      "id": "war_placeholder_19",
-      "title": "Conflicto de Ejemplo 19",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/155/600/400", "https://picsum.photos/seed/156/600/400", "https://picsum.photos/seed/157/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -26.0, "lng": -63.0 }
-    },
-    {
-      "id": "war_placeholder_20",
-      "title": "Conflicto de Ejemplo 20",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/158/600/400", "https://picsum.photos/seed/159/600/400", "https://picsum.photos/seed/160/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -34.0, "lng": -66.0 }
-    },
-    {
-      "id": "war_placeholder_21",
-      "title": "Conflicto de Ejemplo 21",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/161/600/400", "https://picsum.photos/seed/162/600/400", "https://picsum.photos/seed/163/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -33.0, "lng": -62.0 }
-    },
-    {
-      "id": "war_placeholder_22",
-      "title": "Conflicto de Ejemplo 22",
-      "period": "XXXX–YYYY",
-      "type": "Guerra internacional",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/164/600/400", "https://picsum.photos/seed/165/600/400", "https://picsum.photos/seed/166/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -35.0, "lng": -60.0 }
-    },
-    {
-      "id": "war_placeholder_23",
-      "title": "Conflicto de Ejemplo 23",
-      "period": "XXXX–YYYY",
+      "id": "war_1945_dia_lealtad_peronista",
+      "title": "Día de la Lealtad Peronista",
+      "period": "1945",
       "type": "Levantamiento",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/167/600/400", "https://picsum.photos/seed/168/600/400", "https://picsum.photos/seed/169/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -30.0, "lng": -61.0 }
+      "summary": "Masiva movilización obrera y sindical que exigió la liberación de Juan Domingo Perón.",
+      "description": "El 17 de octubre de 1945, una multitud de trabajadores se congregó en la Plaza de Mayo para exigir la liberación del entonces coronel Juan Domingo Perón, quien había sido detenido por el gobierno militar. Este evento marcó el nacimiento del peronismo como movimiento de masas y catapultó a Perón hacia la presidencia.",
+      "turningPoints": [
+        "Detención de Perón en la isla Martín García",
+        "Huelga general convocada por la CGT",
+        "Discurso de Perón desde el balcón de la Casa Rosada"
+      ],
+      "importantFigures": [
+        "Juan Domingo Perón",
+        "Eva Perón",
+        "Cipriano Reyes"
+      ],
+      "images": [
+        "https://picsum.photos/seed/194/600/400",
+        "https://picsum.photos/seed/195/600/400",
+        "https://picsum.photos/seed/196/600/400"
+      ],
+      "sources": [
+        "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Lealtad"
+      ],
+      "tags": [
+        "peronismo",
+        "sindicalismo",
+        "siglo XX",
+        "Plaza de Mayo"
+      ],
+      "latlng": {
+        "lat": -34.608,
+        "lng": -58.374
+      }
     },
     {
-      "id": "war_placeholder_24",
-      "title": "Conflicto de Ejemplo 24",
-      "period": "XXXX–YYYY",
-      "type": "Campaña militar",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/170/600/400", "https://picsum.photos/seed/171/600/400", "https://picsum.photos/seed/172/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -37.0, "lng": -63.0 }
+      "id": "war_1969_cordobazo",
+      "title": "El Cordobazo",
+      "period": "1969",
+      "type": "Levantamiento",
+      "summary": "Insurrección popular contra la dictadura militar de Juan Carlos Onganía.",
+      "description": "El Cordobazo fue una masiva protesta obrero-estudiantil ocurrida en la ciudad de Córdoba. La manifestación se oponía a las políticas económicas y sociales de la dictadura autodenominada 'Revolución Argentina'. Aunque fue duramente reprimida, debilitó al gobierno de Onganía y marcó un hito en la resistencia popular.",
+      "turningPoints": [
+        "Asesinato de Máximo Mena",
+        "Toma de la ciudad por los manifestantes",
+        "Represión militar y fin de la protesta"
+      ],
+      "importantFigures": [
+        "Agustín Tosco",
+        "Elpidio Torres",
+        "Atilio López"
+      ],
+      "images": [
+        "https://picsum.photos/seed/197/600/400",
+        "https://picsum.photos/seed/198/600/400",
+        "https://picsum.photos/seed/199/600/400"
+      ],
+      "sources": [
+        "https://es.wikipedia.org/wiki/Cordobazo"
+      ],
+      "tags": [
+        "dictadura",
+        "sindicalismo",
+        "estudiantes",
+        "siglo XX",
+        "Córdoba"
+      ],
+      "latlng": {
+        "lat": -31.417,
+        "lng": -64.183
+      }
     },
     {
-      "id": "war_placeholder_25",
-      "title": "Conflicto de Ejemplo 25",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/173/600/400", "https://picsum.photos/seed/174/600/400", "https://picsum.photos/seed/175/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -29.0, "lng": -65.0 }
+      "id": "war_1989_hiperinflacion",
+      "title": "Saqueos por Hiperinflación",
+      "period": "1989",
+      "type": "Levantamiento",
+      "summary": "Olas de saqueos a supermercados y comercios en un contexto de hiperinflación galopante.",
+      "description": "En 1989, Argentina sufrió una severa crisis económica con tasas de inflación que llegaron a casi el 5000% anual. La crisis social derivó en saqueos y disturbios en varias ciudades, principalmente en Rosario y el conurbano bonaerense. Este estallido social aceleró la transición presidencial de Raúl Alfonsín a Carlos Menem.",
+      "turningPoints": [
+        "Escalada de precios y desabastecimiento",
+        "Inicio de los saqueos en Rosario",
+        "Adelanto del traspaso de mando presidencial"
+      ],
+      "importantFigures": [
+        "Raúl Alfonsín",
+        "Carlos Menem",
+        "Juan Carlos Pugliese"
+      ],
+      "images": [
+        "https://picsum.photos/seed/200/600/400",
+        "https://picsum.photos/seed/201/600/400",
+        "https://picsum.photos/seed/202/600/400"
+      ],
+      "sources": [
+        "https://es.wikipedia.org/wiki/Hiperinflaci%C3%B3n_argentina_de_1989_y_1990"
+      ],
+      "tags": [
+        "crisis económica",
+        "hiperinflación",
+        "democracia",
+        "siglo XX"
+      ],
+      "latlng": {
+        "lat": -32.95,
+        "lng": -60.64
+      }
     },
     {
-      "id": "war_placeholder_26",
-      "title": "Conflicto de Ejemplo 26",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/176/600/400", "https://picsum.photos/seed/177/600/400", "https://picsum.photos/seed/178/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -28.0, "lng": -59.0 }
-    },
-    {
-      "id": "war_placeholder_27",
-      "title": "Conflicto de Ejemplo 27",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/179/600/400", "https://picsum.photos/seed/180/600/400", "https://picsum.photos/seed/181/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -40.0, "lng": -70.0 }
-    },
-    {
-      "id": "war_placeholder_28",
-      "title": "Conflicto de Ejemplo 28",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/182/600/400", "https://picsum.photos/seed/183/600/400", "https://picsum.photos/seed/184/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -42.0, "lng": -65.0 }
-    },
-    {
-      "id": "war_placeholder_29",
-      "title": "Conflicto de Ejemplo 29",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/185/600/400", "https://picsum.photos/seed/186/600/400", "https://picsum.photos/seed/187/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -26.0, "lng": -63.0 }
-    },
-    {
-      "id": "war_placeholder_30",
-      "title": "Conflicto de Ejemplo 30",
-      "period": "XXXX–YYYY",
-      "type": "Guerra civil",
-      "summary": "Este es un resumen de un conflicto de ejemplo. Se necesita investigación histórica para completarlo.",
-      "description": "TODO: Completar con la descripción detallada, causas, desarrollo y consecuencias del conflicto.",
-      "images": ["https://picsum.photos/seed/188/600/400", "https://picsum.photos/seed/189/600/400", "https://picsum.photos/seed/190/600/400"],
-      "sources": ["http://ejemplo.com/fuente1"],
-      "tags": ["placeholder", "TODO"],
-      "latlng": { "lat": -34.0, "lng": -66.0 }
+      "id": "war_2001_crisis_argentina",
+      "title": "Crisis de Diciembre de 2001",
+      "period": "2001",
+      "type": "Levantamiento",
+      "summary": "Estallido social y crisis institucional que provocó la renuncia del presidente Fernando de la Rúa.",
+      "description": "Tras años de recesión y una profunda crisis de deuda, el gobierno impuso el 'Corralito', una restricción a la extracción de depósitos bancarios. La medida desató una ola de protestas masivas, cacerolazos y disturbios que culminaron con la renuncia de De la Rúa y una semana de inestabilidad con cinco presidentes.",
+      "turningPoints": [
+        "Implementación del 'Corralito'",
+        "Protestas del 19 y 20 de diciembre",
+        "Renuncia de Fernando de la Rúa"
+      ],
+      "importantFigures": [
+        "Fernando de la Rúa",
+        "Domingo Cavallo",
+        "Eduardo Duhalde"
+      ],
+      "images": [
+        "https://picsum.photos/seed/203/600/400",
+        "https://picsum.photos/seed/204/600/400",
+        "https://picsum.photos/seed/205/600/400"
+      ],
+      "sources": [
+        "https://es.wikipedia.org/wiki/Crisis_de_diciembre_de_2001_en_Argentina"
+      ],
+      "tags": [
+        "crisis económica",
+        "democracia",
+        "siglo XXI",
+        "Corralito"
+      ],
+      "latlng": {
+        "lat": -34.609,
+        "lng": -58.382
+      }
     }
   ]
 }

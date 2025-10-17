@@ -3,7 +3,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } f
 import { ScrollArea } from '@/components/ui/scroll-area';
 import Image from 'next/image';
 import { Badge } from '@/components/ui/badge';
-import { Calendar, BookOpen, Link as LinkIcon, Tag } from 'lucide-react';
+import { Calendar, BookOpen, Link as LinkIcon, Tag, Star, Users } from 'lucide-react';
 
 interface WarModalProps {
   war: War;
@@ -36,6 +36,32 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
               <h3 className="font-headline text-lg font-semibold mb-2">Descripción</h3>
               <p className="text-muted-foreground whitespace-pre-wrap">{war.description}</p>
             </div>
+            
+            {war.turningPoints && war.turningPoints.length > 0 && (
+                <div>
+                    <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
+                        <Star className="w-4 h-4 mr-2" />
+                        Puntos de Inflexión
+                    </h3>
+                    <ul className="space-y-2 list-disc list-inside text-muted-foreground">
+                        {war.turningPoints.map((point, index) => (
+                            <li key={index}>{point}</li>
+                        ))}
+                    </ul>
+                </div>
+            )}
+
+            {war.importantFigures && war.importantFigures.length > 0 && (
+                <div>
+                    <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
+                        <Users className="w-4 h-4 mr-2" />
+                        Nombres Importantes
+                    </h3>
+                    <div className="flex flex-wrap gap-2">
+                      {war.importantFigures.map(figure => <Badge key={figure} variant="secondary">{figure}</Badge>)}
+                    </div>
+                </div>
+            )}
 
             <div>
               <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
