@@ -10,7 +10,12 @@ import {
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from "@/components/ui/accordion"
+} from "@/components/ui/accordion";
+import {
+  Popover,
+  PopoverContent,
+  PopoverTrigger,
+} from "@/components/ui/popover";
 
 interface WarModalProps {
   war: War;
@@ -53,7 +58,14 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
                     <Accordion type="single" collapsible className="w-full">
                       {war.turningPoints.map((point, index) => (
                         <AccordionItem value={`item-${index}`} key={index}>
-                          <AccordionTrigger>{point.title}</AccordionTrigger>
+                          <AccordionTrigger>
+                            <span className="flex-grow text-left">{point.title}</span>
+                             {point.link && (
+                              <a href={point.link} target="_blank" rel="noopener noreferrer" className="ml-4 text-primary hover:text-primary/80" onClick={(e) => e.stopPropagation()}>
+                                <LinkIcon className="w-4 h-4" />
+                              </a>
+                            )}
+                          </AccordionTrigger>
                           <AccordionContent className="text-muted-foreground">
                             {point.description}
                           </AccordionContent>
@@ -70,7 +82,41 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
                         Nombres Importantes
                     </h3>
                     <div className="flex flex-wrap gap-2">
-                      {war.importantFigures.map(figure => <Badge key={figure} variant="secondary">{figure}</Badge>)}
+                      {war.importantFigures.map(figure => (
+                        <Popover key={figure.name}>
+                          <PopoverTrigger asChild>
+                             <Badge variant="secondary" className="cursor-pointer hover:bg-primary/20">{figure.name}</Badge>
+                          </PopoverTrigger>
+                          <PopoverContent className="w-80">
+                            <div className="grid gap-4">
+                              <div className="space-y-2">
+                                <h4 className="font-medium leading-none">{figure.name}</h4>
+                                <p className="text-sm text-muted-foreground">
+                                  {figure.nationality}
+                                </p>
+                              </div>
+                              <div className="grid gap-2 text-sm">
+                                <div className="grid grid-cols-2 items-center">
+                                  <span className="text-muted-foreground">Nacimiento:</span>
+                                  <span>{figure.birthDate}</span>
+                                </div>
+                                <div className="grid grid-cols-2 items-center">
+                                  <span className="text-muted-foreground">Muerte:</span>
+                                  <span>{figure.deathDate}</span>
+                                </div>
+                                <div className="grid grid-cols-2 items-center">
+                                  <span className="text-muted-foreground">Causa:</span>
+                                  <span className="truncate">{figure.causeOfDeath}</span>
+                                </div>
+                                <div className="grid grid-cols-2 items-center">
+                                  <span className="text-muted-foreground">País:</span>
+                                  <span>{figure.countryOfDeath}</span>
+                                </div>
+                              </div>
+                            </div>
+                          </PopoverContent>
+                        </Popover>
+                      ))}
                     </div>
                 </div>
             )}

@@ -2,6 +2,16 @@
 export interface TurningPoint {
   title: string;
   description: string;
+  link?: string;
+}
+
+export interface ImportantFigure {
+  name: string;
+  birthDate: string;
+  deathDate: string;
+  nationality: string;
+  causeOfDeath: string;
+  countryOfDeath: string;
 }
 
 export interface War {
@@ -12,7 +22,7 @@ export interface War {
   summary: string;
   description: string;
   turningPoints: TurningPoint[];
-  importantFigures: string[];
+  importantFigures: ImportantFigure[];
   images: string[];
   sources: string[];
   tags: string[];

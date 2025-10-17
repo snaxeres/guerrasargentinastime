@@ -9,14 +9,14 @@
       "summary": "Conflicto armado que llevó a la emancipación de Argentina del Imperio español, marcando el nacimiento de la nación.",
       "description": "La Guerra de la Independencia Argentina fue un conflicto complejo y prolongado. Se inició con la Revolución de Mayo en 1810 y se extendió por todo el territorio del antiguo Virreinato del Río de la Plata. Las campañas militares, lideradas por figuras como Manuel Belgrano y José de San Martín, fueron cruciales para asegurar la independencia, declarada formalmente en 1816.",
       "turningPoints": [
-        { "title": "Revolución de Mayo (1810)", "description": "El cabildo de Buenos Aires depone al virrey español y forma la Primera Junta, iniciando el camino hacia la autogestión y la independencia." },
-        { "title": "Declaración de Independencia (1816)", "description": "En el Congreso de Tucumán, los representantes de las Provincias Unidas del Río de la Plata declaran formalmente la independencia de España." },
-        { "title": "Cruce de los Andes (1817)", "description": "El Ejército de los Andes, liderado por San Martín, realiza una hazaña logística y militar al cruzar la cordillera para liberar a Chile, una estrategia clave para asegurar la independencia sudamericana." }
+        { "title": "Revolución de Mayo (1810)", "description": "El cabildo de Buenos Aires depone al virrey español y forma la Primera Junta, iniciando el camino hacia la autogestión y la independencia.", "link": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Mayo" },
+        { "title": "Declaración de Independencia (1816)", "description": "En el Congreso de Tucumán, los representantes de las Provincias Unidas del Río de la Plata declaran formalmente la independencia de España.", "link": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_independencia_de_la_Argentina" },
+        { "title": "Cruce de los Andes (1817)", "description": "El Ejército de los Andes, liderado por San Martín, realiza una hazaña logística y militar al cruzar la cordillera para liberar a Chile, una estrategia clave para asegurar la independencia sudamericana.", "link": "https://es.wikipedia.org/wiki/Cruce_de_los_Andes" }
       ],
       "importantFigures": [
-        "José de San Martín",
-        "Manuel Belgrano",
-        "Martín Miguel de Güemes"
+        { "name": "José de San Martín", "birthDate": "25/02/1778", "deathDate": "17/08/1850", "nationality": "Argentino", "causeOfDeath": "Úlcera gástrica", "countryOfDeath": "Francia" },
+        { "name": "Manuel Belgrano", "birthDate": "03/06/1770", "deathDate": "20/06/1820", "nationality": "Argentino", "causeOfDeath": "Hidropesía", "countryOfDeath": "Argentina" },
+        { "name": "Martín Miguel de Güemes", "birthDate": "08/02/1785", "deathDate": "17/06/1821", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Argentina" }
       ],
       "images": ["https://picsum.photos/seed/101/600/400", "https://picsum.photos/seed/102/600/400", "https://picsum.photos/seed/103/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_Argentina"],
@@ -31,14 +31,14 @@
       "summary": "Serie de conflictos intermitentes entre unitarios y federales por la organización política del país.",
       "description": "Las guerras civiles argentinas fueron una larga serie de conflictos que enfrentaron a dos facciones principales: los unitarios, que abogaban por un gobierno centralizado en Buenos Aires, y los federales, que defendían la autonomía de las provincias. Estos enfrentamientos definieron la política argentina durante gran parte del siglo XIX.",
       "turningPoints": [
-        { "title": "Batalla de Cepeda (1820)", "description": "Los caudillos federales derrotan al Directorio unitario, disolviendo el gobierno central y dando inicio a la era de las autonomías provinciales." },
-        { "title": "Gobierno de Juan Manuel de Rosas", "description": "Rosas consolida el poder federal en la Confederación Argentina, imponiendo un orden autoritario que duraría casi dos décadas y manteniendo la unidad nacional bajo su hegemonía." },
-        { "title": "Batalla de Caseros (1852)", "description": "El Ejército Grande, liderado por Justo José de Urquiza, derrota a Rosas, poniendo fin a su largo gobierno y abriendo el camino para la sanción de la Constitución Nacional de 1853." }
+        { "title": "Batalla de Cepeda (1820)", "description": "Los caudillos federales derrotan al Directorio unitario, disolviendo el gobierno central y dando inicio a la era de las autonomías provinciales.", "link": "https://es.wikipedia.org/wiki/Batalla_de_Cepeda_(1820)" },
+        { "title": "Gobierno de Juan Manuel de Rosas", "description": "Rosas consolida el poder federal en la Confederación Argentina, imponiendo un orden autoritario que duraría casi dos décadas y manteniendo la unidad nacional bajo su hegemonía.", "link": "https://es.wikipedia.org/wiki/Juan_Manuel_de_Rosas" },
+        { "title": "Batalla de Caseros (1852)", "description": "El Ejército Grande, liderado por Justo José de Urquiza, derrota a Rosas, poniendo fin a su largo gobierno y abriendo el camino para la sanción de la Constitución Nacional de 1853.", "link": "https://es.wikipedia.org/wiki/Batalla_de_Caseros" }
       ],
       "importantFigures": [
-        "Juan Manuel de Rosas",
-        "Justo José de Urquiza",
-        "Juan Lavalle"
+        { "name": "Juan Manuel de Rosas", "birthDate": "30/03/1793", "deathDate": "14/03/1877", "nationality": "Argentino", "causeOfDeath": "Neumonía", "countryOfDeath": "Reino Unido" },
+        { "name": "Justo José de Urquiza", "birthDate": "18/10/1801", "deathDate": "11/04/1870", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
+        { "name": "Juan Lavalle", "birthDate": "17/10/1797", "deathDate": "09/10/1841", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Bolivia" }
       ],
       "images": ["https://picsum.photos/seed/104/600/400", "https://picsum.photos/seed/105/600/400", "https://picsum.photos/seed/106/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerras_civiles_argentinas"],
@@ -53,14 +53,14 @@
       "summary": "Conflicto entre las Provincias Unidas del Río de la Plata y el Imperio del Brasil por el control de la Banda Oriental.",
       "description": "La Guerra del Brasil, también conocida como Guerra Cisplatina, se libró por la soberanía sobre la Provincia Cisplatina (actual Uruguay). Aunque Argentina obtuvo importantes victorias militares, como en la batalla de Ituzaingó, el resultado diplomático llevó a la independencia de Uruguay como un estado tapón.",
       "turningPoints": [
-        { "title": "Batalla de Ituzaingó (1827)", "description": "El ejército republicano de las Provincias Unidas obtiene una victoria táctica decisiva sobre las fuerzas imperiales de Brasil, aunque no logra definir la guerra." },
+        { "title": "Batalla de Ituzaingó (1827)", "description": "El ejército republicano de las Provincias Unidas obtiene una victoria táctica decisiva sobre las fuerzas imperiales de Brasil, aunque no logra definir la guerra.", "link": "https://es.wikipedia.org/wiki/Batalla_de_Ituzaing%C3%B3" },
         { "title": "Bloqueo naval de Buenos Aires", "description": "La armada brasileña impone un bloqueo económico que afecta gravemente el comercio de Buenos Aires, presionando para una resolución del conflicto." },
-        { "title": "Convención Preliminar de Paz (1828)", "description": "Mediante la diplomacia británica, se acuerda la creación de un estado independiente en la Banda Oriental, la actual República Oriental del Uruguay, para finalizar la guerra." }
+        { "title": "Convención Preliminar de Paz (1828)", "description": "Mediante la diplomacia británica, se acuerda la creación de un estado independiente en la Banda Oriental, la actual República Oriental del Uruguay, para finalizar la guerra.", "link": "https://es.wikipedia.org/wiki/Convenci%C3%B3n_Preliminar_de_Paz_(1828)" }
       ],
       "importantFigures": [
-        "Guillermo Brown",
-        "Carlos María de Alvear",
-        "Pedro I de Brasil"
+        { "name": "Guillermo Brown", "birthDate": "22/06/1777", "deathDate": "03/03/1857", "nationality": "Irlandés-Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Carlos María de Alvear", "birthDate": "25/10/1789", "deathDate": "03/11/1852", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Estados Unidos" },
+        { "name": "Pedro I de Brasil", "birthDate": "12/10/1798", "deathDate": "24/09/1834", "nationality": "Brasileño-Portugués", "causeOfDeath": "Tuberculosis", "countryOfDeath": "Portugal" }
       ],
       "images": ["https://picsum.photos/seed/107/600/400", "https://picsum.photos/seed/108/600/400", "https://picsum.photos/seed/109/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_del_Brasil"],
@@ -76,13 +76,13 @@
       "description": "Argentina entró en la guerra después de que las tropas paraguayas invadieran Corrientes. Fue un conflicto devastador, especialmente para Paraguay, que sufrió una catástrofe demográfica. La guerra reconfiguró las fronteras y el equilibrio de poder en la región.",
       "turningPoints": [
         { "title": "Invasión paraguaya de Corrientes (1865)", "description": "El ataque paraguayo a territorio argentino sin previa declaración de guerra provoca la entrada de Argentina en el conflicto, formando la Triple Alianza con Brasil y Uruguay." },
-        { "title": "Batalla de Curupaytí (1866)", "description": "Una defensa paraguaya formidable inflige una derrota humillante a las fuerzas aliadas, demostrando la tenacidad de la resistencia y prolongando la guerra significativamente." },
+        { "title": "Batalla de Curupaytí (1866)", "description": "Una defensa paraguaya formidable inflige una derrota humillante a las fuerzas aliadas, demostrando la tenacidad de la resistencia y prolongando la guerra significativamente.", "link": "https://es.wikipedia.org/wiki/Batalla_de_Curupayt%C3%AD" },
         { "title": "Saqueo de Asunción (1869)", "description": "Las tropas aliadas toman y saquean la capital paraguaya, un acto que simboliza la brutalidad del conflicto y la inminente derrota de Paraguay." }
       ],
       "importantFigures": [
-        "Bartolomé Mitre",
-        "Francisco Solano López",
-        "Duque de Caxias"
+        { "name": "Bartolomé Mitre", "birthDate": "26/06/1821", "deathDate": "19/01/1906", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Francisco Solano López", "birthDate": "24/07/1827", "deathDate": "01/03/1870", "nationality": "Paraguayo", "causeOfDeath": "Herida de lanza", "countryOfDeath": "Paraguay" },
+        { "name": "Duque de Caxias", "birthDate": "25/08/1803", "deathDate": "07/05/1880", "nationality": "Brasileño", "causeOfDeath": "Causas naturales", "countryOfDeath": "Brasil" }
       ],
       "images": ["https://picsum.photos/seed/110/600/400", "https://picsum.photos/seed/111/600/400", "https://picsum.photos/seed/112/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza"],
@@ -102,9 +102,9 @@
         { "title": "Rendición de los últimos caciques", "description": "Con la captura y rendición de los principales líderes indígenas como Namuncurá y Sayhueque, el Estado argentino consolida su control sobre la Patagonia." }
       ],
       "importantFigures": [
-        "Julio Argentino Roca",
-        "Adolfo Alsina",
-        "Namuncurá"
+        { "name": "Julio Argentino Roca", "birthDate": "17/07/1843", "deathDate": "19/10/1914", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Adolfo Alsina", "birthDate": "04/01/1829", "deathDate": "29/12/1877", "nationality": "Argentino", "causeOfDeath": "Insuficiencia renal", "countryOfDeath": "Argentina" },
+        { "name": "Namuncurá", "birthDate": "c. 1811", "deathDate": "11/08/1908", "nationality": "Mapuche", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
       "images": ["https://picsum.photos/seed/113/600/400", "https://picsum.photos/seed/114/600/400", "https://picsum.photos/seed/115/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Conquista_del_Desierto"],
@@ -124,9 +124,9 @@
         { "title": "Suicidio de Leandro N. Alem (1896)", "description": "Aunque posterior al levantamiento, el suicidio del líder de la UCR, Alem, marca un fin de época y consolida el liderazgo de su sobrino, Hipólito Yrigoyen, dentro del partido." }
       ],
       "importantFigures": [
-        "Leandro N. Alem",
-        "Hipólito Yrigoyen",
-        "Aristóbulo del Valle"
+        { "name": "Leandro N. Alem", "birthDate": "11/03/1842", "deathDate": "01/07/1896", "nationality": "Argentino", "causeOfDeath": "Suicidio", "countryOfDeath": "Argentina" },
+        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Aristóbulo del Valle", "birthDate": "15/03/1845", "deathDate": "29/01/1896", "nationality": "Argentino", "causeOfDeath": "Diabetes", "countryOfDeath": "Argentina" }
       ],
       "images": ["https://picsum.photos/seed/116/600/400", "https://picsum.photos/seed/117/600/400", "https://picsum.photos/seed/118/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_1893"],
@@ -146,9 +146,9 @@
         { "title": "Comienzo de la Década Infame", "description": "El golpe da inicio a un período caracterizado por el fraude electoral, la corrupción y la exclusión política, conocido como la 'Década Infame'." }
       ],
       "importantFigures": [
-        "José Félix Uriburu",
-        "Hipólito Yrigoyen",
-        "Agustín P. Justo"
+        { "name": "José Félix Uriburu", "birthDate": "20/07/1868", "deathDate": "29/04/1932", "nationality": "Argentino", "causeOfDeath": "Complicaciones postoperatorias", "countryOfDeath": "Francia" },
+        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Agustín P. Justo", "birthDate": "26/02/1876", "deathDate": "11/01/1943", "nationality": "Argentino", "causeOfDeath": "Derrame cerebral", "countryOfDeath": "Argentina" }
       ],
       "images": ["https://picsum.photos/seed/119/600/400", "https://picsum.photos/seed/120/600/400", "https://picsum.photos/seed/121/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1930"],
@@ -163,14 +163,14 @@
       "summary": "Golpe de estado cívico-militar que derrocó al presidente Juan Domingo Perón y proscribió al peronismo.",
       "description": "Tras un fallido intento en junio con el bombardeo a la Plaza de Mayo, el golpe se concretó en septiembre de 1955. El nuevo gobierno militar, autodenominado 'Revolución Libertadora', proscribió al peronismo y a Perón, quien se exilió. Este evento profundizó la grieta política en Argentina.",
       "turningPoints": [
-        { "title": "Bombardeo de la Plaza de Mayo (junio 1955)", "description": "La aviación naval bombardea la Casa Rosada y la Plaza de Mayo en un intento de magnicidio contra Perón, causando cientos de muertes civiles." },
+        { "title": "Bombardeo de la Plaza de Mayo (junio 1955)", "description": "La aviación naval bombardea la Casa Rosada y la Plaza de Mayo en un intento de magnicidio contra Perón, causando cientos de muertes civiles.", "link": "https://es.wikipedia.org/wiki/Bombardeo_de_la_Plaza_de_Mayo" },
         { "title": "Derrocamiento y exilio de Perón (septiembre 1955)", "description": "Un levantamiento militar iniciado en Córdoba se extiende por el país, forzando la renuncia y el exilio de Perón, quien no regresaría por 18 años." },
         { "title": "Proscripción del peronismo", "description": "El régimen militar prohíbe por decreto toda actividad política peronista y la mera mención de los nombres de Perón y Evita, marcando la política argentina por décadas." }
       ],
       "importantFigures": [
-        "Juan Domingo Perón",
-        "Eduardo Lonardi",
-        "Pedro Eugenio Aramburu"
+        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
+        { "name": "Eduardo Lonardi", "birthDate": "15/09/1896", "deathDate": "22/03/1956", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
+        { "name": "Pedro Eugenio Aramburu", "birthDate": "21/05/1903", "deathDate": "01/06/1970", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" }
       ],
       "images": ["https://picsum.photos/seed/122/600/400", "https://picsum.photos/seed/123/600/400", "https://picsum.photos/seed/124/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora_(Argentina)"],
@@ -187,12 +187,12 @@
       "turningPoints": [
         { "title": "Regreso de Perón (1973)", "description": "El retorno de Perón al país tras 18 años de exilio genera una enorme expectativa, pero también expone las violentas divisiones internas del movimiento peronista (Masacre de Ezeiza)." },
         { "title": "Muerte de Perón y gobierno de Isabel Martínez (1974)", "description": "La muerte del líder deja un vacío de poder y su viuda, Isabel Perón, asume la presidencia. Su gobierno se ve desbordado por la crisis económica y la violencia política, con el accionar de la Triple A." },
-        { "title": "Golpe de Estado de 1976", "description": "Las Fuerzas Armadas toman el poder, instaurando la dictadura más sangrienta de la historia argentina, con un plan sistemático de secuestro, tortura y desaparición de personas." }
+        { "title": "Golpe de Estado de 1976", "description": "Las Fuerzas Armadas toman el poder, instaurando la dictadura más sangrienta de la historia argentina, con un plan sistemático de secuestro, tortura y desaparición de personas.", "link": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1976" }
       ],
       "importantFigures": [
-        "Juan Domingo Perón",
-        "Jorge Rafael Videla",
-        "Mario Firmenich"
+        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
+        { "name": "Jorge Rafael Videla", "birthDate": "02/08/1925", "deathDate": "17/05/2013", "nationality": "Argentino", "causeOfDeath": "Causas naturales (en prisión)", "countryOfDeath": "Argentina" },
+        { "name": "Mario Firmenich", "birthDate": "24/01/1948", "deathDate": "Vivo", "nationality": "Argentino", "causeOfDeath": "-", "countryOfDeath": "-" }
       ],
       "images": ["https://picsum.photos/seed/125/600/400", "https://picsum.photos/seed/126/600/400", "https://picsum.photos/seed/127/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Terrorismo_de_Estado_en_Argentina_en_las_d%C3%A9cadas_de_1970_y_1980"],
@@ -208,13 +208,13 @@
       "description": "Iniciada por la dictadura militar argentina con la ocupación de las islas, la guerra duró 74 días y finalizó con la rendición argentina. El conflicto tuvo un alto costo en vidas y aceleró la caída del régimen militar, abriendo paso al retorno de la democracia en 1983. La soberanía de las islas sigue siendo un reclamo argentino.",
       "turningPoints": [
         { "title": "Operación Rosario (2 de abril)", "description": "Tropas argentinas desembarcan en las Islas Malvinas y toman el control de la capital, Puerto Argentino, sin encontrar gran resistencia. La dictadura anuncia la 'recuperación' de las islas." },
-        { "title": "Hundimiento del ARA General Belgrano (2 de mayo)", "description": "El submarino nuclear británico HMS Conqueror hunde al crucero argentino fuera de la zona de exclusión, causando 323 muertes. Este acto escala el conflicto a una guerra total." },
+        { "title": "Hundimiento del ARA General Belgrano (2 de mayo)", "description": "El submarino nuclear británico HMS Conqueror hunde al crucero argentino fuera de la zona de exclusión, causando 323 muertes. Este acto escala el conflicto a una guerra total.", "link": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_General_Belgrano" },
         { "title": "Rendición argentina (14 de junio)", "description": "Tras intensos combates, especialmente en los alrededores de Puerto Argentino, las fuerzas argentinas se rinden incondicionalmente, poniendo fin a la guerra." }
       ],
       "importantFigures": [
-        "Leopoldo Galtieri",
-        "Margaret Thatcher",
-        "Mario Benjamín Menéndez"
+        { "name": "Leopoldo Galtieri", "birthDate": "15/07/1926", "deathDate": "12/01/2003", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
+        { "name": "Margaret Thatcher", "birthDate": "13/10/1925", "deathDate": "08/04/2013", "nationality": "Británica", "causeOfDeath": "Accidente cerebrovascular", "countryOfDeath": "Reino Unido" },
+        { "name": "Mario Benjamín Menéndez", "birthDate": "03/04/1930", "deathDate": "18/09/2015", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
       "images": ["https://picsum.photos/seed/128/600/400", "https://picsum.photos/seed/129/600/400", "https://picsum.photos/seed/130/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas"],
@@ -234,9 +234,9 @@
         { "title": "Decreto de Reforma de Yrigoyen", "description": "El gobierno nacional aprueba los nuevos estatutos de la universidad, incorporando principios clave como la autonomía y el cogobierno, sentando un precedente para todo el país." }
       ],
       "importantFigures": [
-        "Deodoro Roca",
-        "Enrique Barros",
-        "Hipólito Yrigoyen"
+        { "name": "Deodoro Roca", "birthDate": "07/07/1890", "deathDate": "07/06/1942", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
+        { "name": "Enrique Barros", "birthDate": "08/07/1893", "deathDate": "27/11/1961", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
       "images": [
         "https://picsum.photos/seed/191/600/400",
@@ -271,9 +271,9 @@
         { "title": "Discurso de Perón desde el balcón de la Casa Rosada", "description": "Tras ser liberado por la presión popular, Perón se dirige a la multitud, sellando su pacto con los trabajadores y lanzando su carrera hacia la presidencia." }
       ],
       "importantFigures": [
-        "Juan Domingo Perón",
-        "Eva Perón",
-        "Cipriano Reyes"
+        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
+        { "name": "Eva Perón", "birthDate": "07/05/1919", "deathDate": "26/07/1952", "nationality": "Argentina", "causeOfDeath": "Cáncer de útero", "countryOfDeath": "Argentina" },
+        { "name": "Cipriano Reyes", "birthDate": "18/09/1906", "deathDate": "01/08/2001", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
       "images": [
         "https://picsum.photos/seed/194/600/400",
@@ -307,9 +307,9 @@
         { "title": "Represión militar y fin de la protesta", "description": "El gobierno de Onganía ordena la intervención del ejército, que reprime brutalmente la protesta, pero el Cordobazo ya había demostrado la vulnerabilidad de la dictadura." }
       ],
       "importantFigures": [
-        "Agustín Tosco",
-        "Elpidio Torres",
-        "Atilio López"
+        { "name": "Agustín Tosco", "birthDate": "22/05/1930", "deathDate": "05/11/1975", "nationality": "Argentino", "causeOfDeath": "Encefalitis bacteriana", "countryOfDeath": "Argentina" },
+        { "name": "Elpidio Torres", "birthDate": "1923", "deathDate": "2000", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Atilio López", "birthDate": "05/02/1925", "deathDate": "16/09/1974", "nationality": "Argentino", "causeOfDeath": "Asesinato (Triple A)", "countryOfDeath": "Argentina" }
       ],
       "images": [
         "https://picsum.photos/seed/197/600/400",
@@ -344,9 +344,9 @@
         { "title": "Adelanto del traspaso de mando presidencial", "description": "La crisis social y económica se vuelve insostenible, forzando al presidente Raúl Alfonsín a entregar el poder de manera anticipada a su sucesor electo, Carlos Menem." }
       ],
       "importantFigures": [
-        "Raúl Alfonsín",
-        "Carlos Menem",
-        "Juan Carlos Pugliese"
+        { "name": "Raúl Alfonsín", "birthDate": "12/03/1927", "deathDate": "31/03/2009", "nationality": "Argentino", "causeOfDeath": "Cáncer de pulmón", "countryOfDeath": "Argentina" },
+        { "name": "Carlos Menem", "birthDate": "02/07/1930", "deathDate": "14/02/2021", "nationality": "Argentino", "causeOfDeath": "Infección urinaria", "countryOfDeath": "Argentina" },
+        { "name": "Juan Carlos Pugliese", "birthDate": "17/10/1915", "deathDate": "17/01/1994", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
       "images": [
         "https://picsum.photos/seed/200/600/400",
@@ -380,9 +380,9 @@
         { "title": "Renuncia de Fernando de la Rúa", "description": "Acorralado por la crisis social y sin apoyo político, el presidente De la Rúa renuncia y abandona la Casa Rosada en helicóptero, una imagen icónica de la caída." }
       ],
       "importantFigures": [
-        "Fernando de la Rúa",
-        "Domingo Cavallo",
-        "Eduardo Duhalde"
+        { "name": "Fernando de la Rúa", "birthDate": "15/09/1937", "deathDate": "09/07/2019", "nationality": "Argentino", "causeOfDeath": "Problemas cardiovasculares", "countryOfDeath": "Argentina" },
+        { "name": "Domingo Cavallo", "birthDate": "21/07/1946", "deathDate": "Vivo", "nationality": "Argentino", "causeOfDeath": "-", "countryOfDeath": "-" },
+        { "name": "Eduardo Duhalde", "birthDate": "05/10/1941", "deathDate": "Vivo", "nationality": "Argentino", "causeOfDeath": "-", "countryOfDeath": "-" }
       ],
       "images": [
         "https://picsum.photos/seed/203/600/400",
