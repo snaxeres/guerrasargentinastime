@@ -19,3 +19,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_GUERRAS_ARGENTINAS }}'
           channelId: live
           projectId: guerras-argentinas
+
