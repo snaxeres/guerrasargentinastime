@@ -68,6 +68,45 @@
       "latlng": { "lat": -34.9, "lng": -56.17 }
     },
     {
+      "id": "war_1838_bloqueo_frances",
+      "title": "Bloqueo francés al Río de la Plata",
+      "period": "1838–1840",
+      "type": "Conflicto internacional",
+      "summary": "Conflicto diplomático y militar entre la Confederación Argentina y Francia, que impuso un bloqueo naval a Buenos Aires.",
+      "description": "Inicio: El bloqueo comenzó en marzo de 1838, cuando la flota francesa impidió el comercio en el Río de la Plata.\n\nMotivo: Francia exigía un trato preferencial para sus ciudadanos en Argentina, similar al que tenían los británicos, y la liberación de ciudadanos franceses detenidos. El gobierno de Juan Manuel de Rosas se negó a ceder a la presión.\n\nDesenlace: Tras dos años de bloqueo, que afectó la economía pero no logró doblegar a Rosas, y con la mediación británica, se firmó el tratado Mackau-Arana, que puso fin al conflicto.\n\nConsecuencias: Rosas consolidó su poder interno al ser visto como un defensor de la soberanía nacional. El bloqueo demostró la vulnerabilidad económica de Buenos Aires pero también la capacidad de resistencia del gobierno.",
+      "turningPoints": [
+        { "title": "Combate de la Vuelta de Obligado (contexto previo)", "description": "Aunque este combate es de 1845, la resistencia en Obligado se inspiró en la firmeza mostrada durante el bloqueo francés. No es un punto de inflexión de este conflicto, sino una consecuencia ideológica posterior." },
+        { "title": "Tratado Mackau-Arana (1840)", "description": "Pone fin al bloqueo sin que Argentina ceda a las principales demandas francesas, lo que se considera una victoria diplomática para Rosas.", "link": "https://es.wikipedia.org/wiki/Tratado_Arana-Mackau" }
+      ],
+      "importantFigures": [
+        { "name": "Juan Manuel de Rosas", "birthDate": "30/03/1793", "deathDate": "14/03/1877", "nationality": "Argentino", "causeOfDeath": "Neumonía", "countryOfDeath": "Reino Unido" }
+      ],
+      "images": ["https://picsum.photos/seed/bloqueo-fr-1/600/400", "https://picsum.photos/seed/bloqueo-fr-2/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Bloqueo_franc%C3%A9s_al_R%C3%ADo_de_la_Plata"],
+      "tags": ["bloqueo", "Francia", "Rosas", "siglo XIX", "diplomacia"],
+      "latlng": { "lat": -34.6, "lng": -58.38 }
+    },
+    {
+      "id": "war_1845_bloqueo_anglo_frances",
+      "title": "Bloqueo anglo-francés del Río de la Plata",
+      "period": "1845–1850",
+      "type": "Conflicto internacional",
+      "summary": "Intervención militar de Gran Bretaña y Francia en apoyo al bando colorado de Uruguay y contra Juan Manuel de Rosas.",
+      "description": "Inicio: La intervención comenzó con el bloqueo naval de Buenos Aires por parte de las flotas británica y francesa en 1845.\n\nMotivo: Oficialmente, buscaba la pacificación de la región y la libre navegación de los ríos. En la práctica, era un intento de debilitar a Rosas, que apoyaba al bando blanco en la Guerra Grande de Uruguay y se oponía a los intereses comerciales europeos.\n\nDesenlace: El hito más famoso fue el Combate de la Vuelta de Obligado. A pesar de la victoria naval europea, la resistencia argentina encareció y dificultó la intervención. Finalmente, las potencias europeas retiraron el bloqueo y firmaron tratados por separado con Argentina.\n\nConsecuencias: La defensa de la soberanía en la Vuelta de Obligado se convirtió en un símbolo del nacionalismo argentino. Rosas salió fortalecido en el plano interno, aunque el conflicto profundizó la crisis económica.",
+      "turningPoints": [
+        { "title": "Combate de la Vuelta de Obligado (1845)", "description": "Las fuerzas argentinas, a pesar de ser derrotadas, ofrecieron una heroica resistencia contra la flota anglo-francesa, causando graves daños y demostrando el alto costo de la intervención.", "link": "https://es.wikipedia.org/wiki/Batalla_de_la_Vuelta_de_Obligado" },
+        { "title": "Tratado Arana-Southern (1849)", "description": "Gran Bretaña reconoce la soberanía argentina sobre sus ríos interiores y retira el bloqueo, una victoria diplomática clave para la Confederación." }
+      ],
+      "importantFigures": [
+        { "name": "Juan Manuel de Rosas", "birthDate": "30/03/1793", "deathDate": "14/03/1877", "nationality": "Argentino", "causeOfDeath": "Neumonía", "countryOfDeath": "Reino Unido" },
+        { "name": "Lucio Norberto Mansilla", "birthDate": "04/03/1792", "deathDate": "10/04/1871", "nationality": "Argentino", "causeOfDeath": "Fiebre amarilla", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/vuelta-obligado/600/400", "https://picsum.photos/seed/bloqueo-anglo/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Bloqueo_anglo-franc%C3%A9s_del_R%C3%ADo_de_la_Plata"],
+      "tags": ["Vuelta de Obligado", "soberanía", "Rosas", "siglo XIX", "Inglaterra"],
+      "latlng": { "lat": -33.6, "lng": -59.81 }
+    },
+    {
       "id": "war_1865_triple_alianza",
       "title": "Guerra de la Triple Alianza",
       "period": "1864–1870",
@@ -88,6 +127,26 @@
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza"],
       "tags": ["guerra internacional", "Paraguay", "Brasil", "siglo XIX", "Corrientes"],
       "latlng": { "lat": -27.47, "lng": -58.83 }
+    },
+    {
+      "id": "war_1870_rebeliones_jordanistas",
+      "title": "Rebeliones jordanistas",
+      "period": "1870–1876",
+      "type": "Rebelión federal",
+      "summary": "Últimos levantamientos federales liderados por Ricardo López Jordán en Entre Ríos contra el poder central de Buenos Aires.",
+      "description": "Inicio: La primera rebelión estalló en 1870, tras el asesinato de Justo José de Urquiza, del cual se culpó a López Jordán.\n\nMotivo: Fue la última gran expresión del federalismo provincial que se resistía a la autoridad del presidente Domingo F. Sarmiento y a la consolidación del estado nacional liberal.\n\nDesenlace: Hubo tres rebeliones en total. Todas fueron sofocadas por el ejército nacional, que demostró su creciente poder y organización. López Jordán fue finalmente derrotado y exiliado.\n\nConsecuencias: Marcó el fin de la era de los caudillos y las grandes rebeliones federales. El poder del gobierno central se impuso definitivamente, asegurando la unidad del país bajo el modelo porteño.",
+      "turningPoints": [
+        { "title": "Asesinato de Urquiza (1870)", "description": "El asesinato del ex presidente y caudillo entrerriano desata la crisis y sirve como pretexto para la intervención nacional en Entre Ríos." },
+        { "title": "Batalla de Ñaembé (1871)", "description": "El ejército nacional derrota decisivamente a López Jordán, poniendo fin a la primera y más poderosa de sus rebeliones." }
+      ],
+      "importantFigures": [
+        { "name": "Ricardo López Jordán", "birthDate": "30/08/1822", "deathDate": "22/06/1889", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
+        { "name": "Domingo F. Sarmiento", "birthDate": "15/02/1811", "deathDate": "11/09/1888", "nationality": "Argentino", "causeOfDeath": "Ataque al corazón", "countryOfDeath": "Paraguay" }
+      ],
+      "images": ["https://picsum.photos/seed/jordan-1/600/400", "https://picsum.photos/seed/jordan-2/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Rebeli%C3%B3n_jordanista"],
+      "tags": ["rebelión", "federalismo", "Entre Ríos", "Sarmiento", "siglo XIX"],
+      "latlng": { "lat": -32.5, "lng": -59.5 }
     },
     {
       "id": "war_1878_conquista_desierto",
@@ -112,6 +171,128 @@
       "latlng": { "lat": -38.95, "lng": -68.06 }
     },
     {
+      "id": "war_1890_revolucion_parque",
+      "title": "Revolución del Parque",
+      "period": "1890",
+      "type": "Levantamiento",
+      "summary": "Levantamiento cívico-militar contra el gobierno de Miguel Juárez Celman, marcando el surgimiento de la Unión Cívica Radical.",
+      "description": "Inicio: La revolución estalló el 26 de julio de 1890 en Buenos Aires.\n\nMotivo: Fue una reacción a la corrupción generalizada, la crisis económica de 1890 y el autoritarismo del gobierno de Juárez Celman (el 'Unicato').\n\nDesenlace: Aunque los revolucionarios fueron derrotados militarmente tras varios días de combate, la crisis política forzó la renuncia del presidente Juárez Celman.\n\nConsecuencias: La revolución no tomó el poder, pero provocó la caída del presidente y el surgimiento de una nueva fuerza política de oposición, la Unión Cívica (que luego derivaría en la UCR), rompiendo con el monopolio del poder del Partido Autonomista Nacional (PAN).",
+      "turningPoints": [
+        { "title": "Creación de la Unión Cívica (1889)", "description": "Se forma una nueva coalición política opositora que une a diversas figuras descontentas con el régimen." },
+        { "title": "Renuncia de Juárez Celman", "description": "A pesar de la derrota militar de los revolucionarios, la falta de apoyo político obliga al presidente a dimitir." }
+      ],
+      "importantFigures": [
+        { "name": "Leandro N. Alem", "birthDate": "11/03/1842", "deathDate": "01/07/1896", "nationality": "Argentino", "causeOfDeath": "Suicidio", "countryOfDeath": "Argentina" },
+        { "name": "Bartolomé Mitre", "birthDate": "26/06/1821", "deathDate": "19/01/1906", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
+        { "name": "Miguel Juárez Celman", "birthDate": "29/09/1844", "deathDate": "14/04/1909", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/parque-1/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_del_Parque"],
+      "tags": ["revolución", "UCR", "siglo XIX", "Juárez Celman"],
+      "latlng": { "lat": -34.60, "lng": -58.38 }
+    },
+    {
+      "id": "war_1912_semana_tragica",
+      "title": "Semana Trágica",
+      "period": "1919",
+      "type": "Conflicto interno",
+      "summary": "Una semana de violentos enfrentamientos en Buenos Aires entre huelguistas, fuerzas de seguridad y grupos parapoliciales.",
+      "description": "Inicio: La violencia se desató en enero de 1919 a partir de una huelga en los talleres metalúrgicos Vasena.\n\nMotivo: Una huelga por mejores condiciones laborales escaló cuando la policía reprimió a los obreros. La muerte de varios manifestantes provocó una huelga general y una insurrección popular.\n\nDesenlace: El gobierno de Hipólito Yrigoyen ordenó una represión brutal por parte del ejército. Al mismo tiempo, grupos civiles de derecha (la Liga Patriótica Argentina) persiguieron y asesinaron a obreros, inmigrantes y judíos.\n\nConsecuencias: Cientos de muertos y heridos. Marcó un punto de inflexión en la relación entre el movimiento obrero y el Estado. La violencia y el antisemitismo de los grupos parapoliciales dejaron una cicatriz profunda en la sociedad argentina.",
+      "turningPoints": [
+        { "title": "Huelga en Talleres Vasena", "description": "Una disputa laboral se convierte en el catalizador de un conflicto social a gran escala." },
+        { "title": "Intervención de la Liga Patriótica", "description": "Grupos civiles armados de ultraderecha actúan como fuerza parapolicial, llevando la violencia a un nuevo nivel de brutalidad y persecución ideológica." }
+      ],
+      "importantFigures": [
+        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/semana-tragica/600/400", "https://picsum.photos/seed/semana-tragica-2/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Semana_Tr%C3%A1gica_(Argentina)"],
+      "tags": ["huelga", "obreros", "represión", "siglo XX", "Yrigoyen"],
+      "latlng": { "lat": -34.63, "lng": -58.42 }
+    },
+    {
+      "id": "war_1921_patagonia_rebelde",
+      "title": "Patagonia Rebelde",
+      "period": "1920–1921",
+      "type": "Conflicto armado",
+      "summary": "Huelgas obreras en la Patagonia que terminaron en una masacre de trabajadores a manos del Ejército Argentino.",
+      "description": "Inicio: El conflicto se inició con huelgas de peones rurales en la provincia de Santa Cruz, que reclamaban mejoras salariales y condiciones dignas de trabajo.\n\nMotivo: Los estancieros, en su mayoría británicos, se negaron a cumplir un acuerdo previo y obtuvieron el apoyo del gobierno nacional para reprimir la protesta.\n\nDesenlace: El gobierno de Yrigoyen envió al Teniente Coronel Héctor Benigno Varela, quien, en una segunda expedición, ordenó el fusilamiento masivo de cientos de huelguistas, un episodio conocido como la 'Patagonia Trágica'.\n\nConsecuencias: La masacre aplastó al movimiento obrero en la Patagonia por años. El evento fue ocultado por la historia oficial durante décadas, hasta ser rescatado por el libro de Osvaldo Bayer. Varela fue asesinado años después por un anarquista en venganza.",
+      "turningPoints": [
+        { "title": "Incumplimiento del laudo", "description": "Los estancieros se niegan a aplicar las mejoras laborales acordadas, reavivando la huelga." },
+        { "title": "Fusilamientos masivos", "description": "El ejército, bajo órdenes de Varela, ejecuta a entre 1000 y 1500 peones rurales, poniendo un fin sangriento al conflicto." }
+      ],
+      "importantFigures": [
+        { "name": "Héctor Benigno Varela", "birthDate": "27/01/1875", "deathDate": "27/01/1923", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
+        { "name": "Osvaldo Bayer", "birthDate": "18/02/1927", "deathDate": "24/12/2018", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/patagonia-1/600/400", "https://picsum.photos/seed/patagonia-2/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Patagonia_rebelde"],
+      "tags": ["huelga", "fusilamientos", "Patagonia", "siglo XX", "ejército"],
+      "latlng": { "lat": -50.5, "lng": -70.5 }
+    },
+    {
+      "id": "war_1930_golpe_uriburu",
+      "title": "Golpe de Estado de 1930",
+      "period": "1930",
+      "type": "Golpe de estado",
+      "summary": "Primer golpe de Estado en la historia argentina, que derrocó al presidente Hipólito Yrigoyen e inició la 'Década Infame'.",
+      "description": "Inicio: El golpe se materializó el 6 de septiembre de 1930, liderado por el general José Félix Uriburu.\n\nMotivo: El gobierno de Yrigoyen enfrentaba una fuerte oposición conservadora, el impacto de la crisis económica mundial de 1929 y una campaña de desprestigio en la prensa. Sectores nacionalistas y conservadores del ejército conspiraron para tomar el poder.\n\nDesenlace: El golpe tuvo éxito con relativa facilidad, ante la pasividad de gran parte de la sociedad y la falta de defensa del gobierno radical.\n\nConsecuencias: Interrumpió 18 años de gobiernos democráticos. Uriburu estableció una dictadura de corte corporativista y fascista. Su fracaso llevó a una nueva elección fraudulenta que inauguró la 'Década Infame', un período de gobiernos conservadores sostenidos por el fraude electoral y la proscripción del radicalismo.",
+      "turningPoints": [
+        { "title": "Marcha sobre Buenos Aires", "description": "Uriburu lidera una columna de cadetes del Colegio Militar hacia la Casa Rosada, un acto simbólico que sella el golpe sin gran resistencia." },
+        { "title": "Instauración de la dictadura", "description": "Se disuelve el Congreso, se intervienen las provincias y se instaura un régimen de facto que utilizará la tortura y el asesinato político." }
+      ],
+      "importantFigures": [
+        { "name": "José Félix Uriburu", "birthDate": "20/07/1868", "deathDate": "29/04/1932", "nationality": "Argentino", "causeOfDeath": "Cáncer de estómago", "countryOfDeath": "Francia" },
+        { "name": "Agustín P. Justo", "birthDate": "26/02/1876", "deathDate": "11/01/1943", "nationality": "Argentino", "causeOfDeath": "Derrame cerebral", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/golpe-1930/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1930"],
+      "tags": ["golpe de estado", "Uriburu", "Yrigoyen", "siglo XX", "Década Infame"],
+      "latlng": { "lat": -34.60, "lng": -58.37 }
+    },
+    {
+      "id": "war_1955_revolucion_libertadora",
+      "title": "Golpe de Estado de 1955 (Revolución Libertadora)",
+      "period": "1955",
+      "type": "Golpe de estado",
+      "summary": "Golpe cívico-militar que derrocó al presidente Juan Domingo Perón, dando inicio a años de proscripción del peronismo.",
+      "description": "Inicio: El golpe se consumó el 16 de septiembre de 1955, pero tuvo un precedente sangriento en el bombardeo de la Plaza de Mayo en junio de ese año.\n\nMotivo: El segundo gobierno de Perón enfrentaba una crisis económica, el conflicto con la Iglesia Católica y la creciente oposición de sectores militares, políticos y civiles. La Marina fue el principal motor del golpe.\n\nDesenlace: Tras varios días de combates, principalmente en Córdoba y en la Flota de Mar, Perón renunció para evitar una guerra civil y se exilió.\n\nConsecuencias: Se instauró una dictadura autodenominada 'Revolución Libertadora'. Se proscribió al peronismo y a Perón, se derogó la Constitución de 1949 y se intervino la CGT. La proscripción del peronismo marcaría la vida política argentina por los siguientes 18 años.",
+      "turningPoints": [
+        { "title": "Bombardeo de la Plaza de Mayo (Junio 1955)", "description": "Aviones de la Marina bombardean la Casa Rosada y la Plaza de Mayo en un intento fallido de matar a Perón, causando más de 300 muertes civiles. Fue el bautismo de fuego del terrorismo de estado.", "link": "https://es.wikipedia.org/wiki/Bombardeo_de_la_Plaza_de_Mayo" },
+        { "title": "Levantamiento de Córdoba (Septiembre 1955)", "description": "El general Eduardo Lonardi lidera el alzamiento militar en Córdoba, que se extiende y fuerza la renuncia de Perón." }
+      ],
+      "importantFigures": [
+        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
+        { "name": "Eduardo Lonardi", "birthDate": "15/09/1896", "deathDate": "22/03/1956", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
+        { "name": "Pedro Eugenio Aramburu", "birthDate": "21/05/1903", "deathDate": "01/06/1970", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/libertadora-1/600/400", "https://picsum.photos/seed/bombardeo-1/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora"],
+      "tags": ["golpe de estado", "Perón", "proscripción", "siglo XX", "bombardeo"],
+      "latlng": { "lat": -34.608, "lng": -58.37 }
+    },
+    {
+      "id": "war_1976_proceso_reorganizacion",
+      "title": "Golpe de Estado de 1976",
+      "period": "1976–1983",
+      "type": "Golpe de estado",
+      "summary": "La dictadura cívico-militar más sangrienta de la historia argentina, que impuso un régimen de terrorismo de Estado.",
+      "description": "Inicio: El golpe tuvo lugar el 24 de marzo de 1976, derrocando a la presidenta María Estela Martínez de Perón.\n\nMotivo: En un contexto de crisis económica, violencia política y accionar de organizaciones guerrilleras, las Fuerzas Armadas tomaron el poder con un amplio consenso de sectores civiles, empresariales y eclesiásticos.\n\nDesenlace: La Junta Militar, liderada sucesivamente por Videla, Viola, Galtieri y Bignone, disolvió el Congreso e implementó un plan sistemático de secuestro, tortura y desaparición de miles de personas. La derrota en la Guerra de Malvinas en 1982 aceleró su caída.\n\nConsecuencias: Se estima que hubo 30.000 desaparecidos. Se desmanteló el aparato productivo industrial y se impuso un modelo económico de valorización financiera que endeudó al país. El trauma social y las secuelas de las violaciones a los derechos humanos perduran hasta hoy. La transición a la democracia en 1983 llevó a los históricos Juicios a las Juntas.",
+      "turningPoints": [
+        { "title": "La Noche de los Lápices (1976)", "description": "Secuestro y desaparición de estudiantes secundarios en La Plata, un caso emblemático de la represión ilegal.", "link": "https://es.wikipedia.org/wiki/Noche_de_los_L%C3%A1pices" },
+        { "title": "Creación de las Madres de Plaza de Mayo (1977)", "description": "Un grupo de madres de desaparecidos comienza a marchar en Plaza de Mayo, convirtiéndose en un símbolo mundial de la lucha por los derechos humanos." }
+      ],
+      "importantFigures": [
+        { "name": "Jorge Rafael Videla", "birthDate": "02/08/1925", "deathDate": "17/05/2013", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco (en prisión)", "countryOfDeath": "Argentina" },
+        { "name": "Emilio Eduardo Massera", "birthDate": "19/10/1925", "deathDate": "08/11/2010", "nationality": "Argentino", "causeOfDeath": "ACV (en prisión domiciliaria)", "countryOfDeath": "Argentina" },
+        { "name": "Leopoldo Galtieri", "birthDate": "15/07/1926", "deathDate": "12/01/2003", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/dictadura-1/600/400", "https://picsum.photos/seed/dictadura-2/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Proceso_de_Reorganizaci%C3%B3n_Nacional"],
+      "tags": ["golpe de estado", "dictadura", "desaparecidos", "siglo XX", "terrorismo de estado"],
+      "latlng": { "lat": -34.609, "lng": -58.372 }
+    },
+    {
       "id": "war_1982_malvinas",
       "title": "Guerra de las Malvinas",
       "period": "1982",
@@ -132,6 +313,26 @@
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas"],
       "tags": ["guerra internacional", "Reino Unido", "Malvinas", "siglo XX", "dictadura"],
       "latlng": { "lat": -51.7, "lng": -59.52 }
+    },
+    {
+      "id": "war_1989_copamiento_tablada",
+      "title": "Copamiento del cuartel de La Tablada",
+      "period": "1989",
+      "type": "Conflicto armado",
+      "summary": "Ataque de un grupo guerrillero al Regimiento de Infantería Mecanizado 3 en La Tablada durante el gobierno de Raúl Alfonsín.",
+      "description": "Inicio: El 23 de enero de 1989, un grupo de 46 miembros del Movimiento Todos por la Patria (MTP) atacó el cuartel militar.\n\nMotivo: El MTP argumentó que el ataque era para frenar un supuesto golpe de estado 'carapintada'. Sin embargo, esta versión es ampliamente desacreditada; se cree que buscaban provocar una insurrección popular.\n\nDesenlace: Tras más de 30 horas de combate, el ejército recuperó el control del cuartel. La represión fue brutal, incluyendo ejecuciones extrajudiciales de guerrilleros que se habían rendido.\n\nConsecuencias: El ataque fue un fracaso total para el MTP y generó un fuerte rechazo social. Marcó el fin de la lucha armada como método político en Argentina. El caso tuvo repercusiones legales por años debido a las denuncias de violaciones a los derechos humanos durante la recuperación del cuartel.",
+      "turningPoints": [
+        { "title": "Ataque al cuartel", "description": "Militantes del MTP irrumpen en el cuartel, dando inicio a un combate que duraría más de un día." },
+        { "title": "Rendición y ejecuciones", "description": "Varios atacantes que se rindieron fueron posteriormente desaparecidos y ejecutados, un hecho documentado que manchó la recuperación militar." }
+      ],
+      "importantFigures": [
+        { "name": "Enrique Gorriarán Merlo", "birthDate": "18/10/1941", "deathDate": "19/09/2006", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
+        { "name": "Raúl Alfonsín", "birthDate": "12/03/1927", "deathDate": "31/03/2009", "nationality": "Argentino", "causeOfDeath": "Cáncer de pulmón", "countryOfDeath": "Argentina" }
+      ],
+      "images": ["https://picsum.photos/seed/tablada-1/600/400"],
+      "sources": ["https://es.wikipedia.org/wiki/Copamiento_del_cuartel_de_La_Tablada"],
+      "tags": ["guerrilla", "MTP", "democracia", "Alfonsín", "siglo XX"],
+      "latlng": { "lat": -34.67, "lng": -58.53 }
     }
   ]
 }

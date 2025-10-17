@@ -16,6 +16,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
+import { Button } from './ui/button';
 
 interface WarModalProps {
   war: War;
@@ -24,6 +25,8 @@ interface WarModalProps {
 }
 
 export function WarModal({ war, isOpen, onClose }: WarModalProps) {
+  const mainSource = war.sources.length > 0 ? war.sources[0] : null;
+
   return (
     <Dialog open={isOpen} onOpenChange={(open) => !open && onClose()}>
       <DialogContent className="max-w-3xl h-[90svh] flex flex-col p-0">
@@ -132,22 +135,21 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
               </div>
             </div>
 
-            <div>
-              <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
-                <BookOpen className="w-4 h-4 mr-2" />
-                Fuentes
-              </h3>
-              <ul className="space-y-2">
-                {war.sources.map((source, index) => (
-                  <li key={index} className="flex items-center">
-                    <LinkIcon className="w-3 h-3 mr-2 text-muted-foreground" />
-                    <a href={source} target="_blank" rel="noopener noreferrer" className="text-sm text-primary hover:underline break-all">
-                      {source}
+            {mainSource && (
+              <div className="pt-4">
+                <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
+                  <BookOpen className="w-4 h-4 mr-2" />
+                  Fuente Principal
+                </h3>
+                <Button asChild variant="outline" className="w-full sm:w-auto">
+                    <a href={mainSource} target="_blank" rel="noopener noreferrer">
+                        <LinkIcon className="w-4 h-4 mr-2" />
+                        Leer más en Wikipedia
                     </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
+                </Button>
+              </div>
+            )}
+            
           </div>
         </ScrollArea>
       </DialogContent>
