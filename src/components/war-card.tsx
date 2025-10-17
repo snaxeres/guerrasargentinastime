@@ -11,7 +11,7 @@ interface WarCardProps {
 export function WarCard({ war, onClick }: WarCardProps) {
   return (
     <Card 
-      className="h-full flex flex-col overflow-hidden hover:shadow-xl transition-shadow duration-300 cursor-pointer border-2 border-transparent hover:border-primary/50 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2"
+      className="h-full flex flex-col overflow-hidden hover:shadow-xl transition-shadow duration-300 cursor-pointer border-2 bg-card/80 border-transparent hover:border-primary/50 focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2"
       onClick={onClick}
       onKeyDown={(e) => e.key === 'Enter' && onClick()}
       tabIndex={0}
@@ -26,7 +26,7 @@ export function WarCard({ war, onClick }: WarCardProps) {
             fill
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
             className="rounded-md object-cover"
-            data-ai-hint="historic battle painting"
+            data-ai-hint="historic battle"
           />
         </div>
         <CardTitle className="font-headline text-lg leading-tight">{war.title}</CardTitle>

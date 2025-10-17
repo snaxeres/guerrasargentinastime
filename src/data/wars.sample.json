@@ -18,7 +18,7 @@
         { "name": "Manuel Belgrano", "birthDate": "03/06/1770", "deathDate": "20/06/1820", "nationality": "Argentino", "causeOfDeath": "Hidropesía", "countryOfDeath": "Argentina" },
         { "name": "Martín Miguel de Güemes", "birthDate": "08/02/1785", "deathDate": "17/06/1821", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Argentina" }
       ],
-      "images": ["https://picsum.photos/seed/101/600/400", "https://picsum.photos/seed/102/600/400", "https://picsum.photos/seed/103/600/400"],
+      "images": ["https://picsum.photos/seed/arg-war-1/600/400", "https://picsum.photos/seed/arg-war-2/600/400", "https://picsum.photos/seed/arg-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_Argentina"],
       "tags": ["independencia", "San Martín", "Belgrano", "siglo XIX", "España"],
       "latlng": { "lat": -32.95, "lng": -60.64 }
@@ -40,7 +40,7 @@
         { "name": "Justo José de Urquiza", "birthDate": "18/10/1801", "deathDate": "11/04/1870", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
         { "name": "Juan Lavalle", "birthDate": "17/10/1797", "deathDate": "09/10/1841", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Bolivia" }
       ],
-      "images": ["https://picsum.photos/seed/104/600/400", "https://picsum.photos/seed/105/600/400", "https://picsum.photos/seed/106/600/400"],
+      "images": ["https://picsum.photos/seed/civil-war-1/600/400", "https://picsum.photos/seed/civil-war-2/600/400", "https://picsum.photos/seed/civil-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerras_civiles_argentinas"],
       "tags": ["guerra civil", "unitarios", "federales", "siglo XIX", "Rosas"],
       "latlng": { "lat": -31.42, "lng": -64.18 }
@@ -62,7 +62,7 @@
         { "name": "Carlos María de Alvear", "birthDate": "25/10/1789", "deathDate": "03/11/1852", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Estados Unidos" },
         { "name": "Pedro I de Brasil", "birthDate": "12/10/1798", "deathDate": "24/09/1834", "nationality": "Brasileño-Portugués", "causeOfDeath": "Tuberculosis", "countryOfDeath": "Portugal" }
       ],
-      "images": ["https://picsum.photos/seed/107/600/400", "https://picsum.photos/seed/108/600/400", "https://picsum.photos/seed/109/600/400"],
+      "images": ["https://picsum.photos/seed/brasil-war-1/600/400", "https://picsum.photos/seed/brasil-war-2/600/400", "https://picsum.photos/seed/brasil-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_del_Brasil"],
       "tags": ["guerra internacional", "Brasil", "Uruguay", "siglo XIX", "Banda Oriental"],
       "latlng": { "lat": -34.9, "lng": -56.17 }
@@ -84,7 +84,7 @@
         { "name": "Francisco Solano López", "birthDate": "24/07/1827", "deathDate": "01/03/1870", "nationality": "Paraguayo", "causeOfDeath": "Herida de lanza", "countryOfDeath": "Paraguay" },
         { "name": "Duque de Caxias", "birthDate": "25/08/1803", "deathDate": "07/05/1880", "nationality": "Brasileño", "causeOfDeath": "Causas naturales", "countryOfDeath": "Brasil" }
       ],
-      "images": ["https://picsum.photos/seed/110/600/400", "https://picsum.photos/seed/111/600/400", "https://picsum.photos/seed/112/600/400"],
+      "images": ["https://picsum.photos/seed/triple-alianza-1/600/400", "https://picsum.photos/seed/triple-alianza-2/600/400", "https://picsum.photos/seed/triple-alianza-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza"],
       "tags": ["guerra internacional", "Paraguay", "Brasil", "siglo XIX", "Corrientes"],
       "latlng": { "lat": -27.47, "lng": -58.83 }
@@ -106,108 +106,20 @@
         { "name": "Adolfo Alsina", "birthDate": "04/01/1829", "deathDate": "29/12/1877", "nationality": "Argentino", "causeOfDeath": "Insuficiencia renal", "countryOfDeath": "Argentina" },
         { "name": "Namuncurá", "birthDate": "c. 1811", "deathDate": "11/08/1908", "nationality": "Mapuche", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
-      "images": ["https://picsum.photos/seed/113/600/400", "https://picsum.photos/seed/114/600/400", "https://picsum.photos/seed/115/600/400"],
+      "images": ["https://picsum.photos/seed/desierto-1/600/400", "https://picsum.photos/seed/desierto-2/600/400", "https://picsum.photos/seed/desierto-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Conquista_del_Desierto"],
       "tags": ["campaña militar", "Patagonia", "Roca", "siglo XIX", "pueblos originarios"],
       "latlng": { "lat": -38.95, "lng": -68.06 }
-    },
-    {
-      "id": "war_1893_levantamiento_radical",
-      "title": "Levantamiento Radical de 1893",
-      "period": "1893",
-      "type": "Levantamiento",
-      "summary": "Revolución organizada por la Unión Cívica Radical contra el gobierno conservador, exigiendo elecciones libres.",
-      "description": "La Revolución de 1893 fue un intento de la UCR, liderada por Leandro N. Alem e Hipólito Yrigoyen, de tomar el poder por las armas ante el fraude electoral sistemático del régimen oligárquico. Aunque fue sofocada, sentó las bases para la futura reforma electoral.",
-      "turningPoints": [
-        { "title": "Toma de La Plata", "description": "Los revolucionarios radicales logran tomar el control de la capital de la provincia de Buenos Aires, uno de los puntos álgidos del levantamiento." },
-        { "title": "Intervención federal en provincias rebeldes", "description": "El gobierno nacional decreta la intervención federal en las provincias de Buenos Aires, Santa Fe y San Luis, movilizando al ejército para sofocar la rebelión." },
-        { "title": "Suicidio de Leandro N. Alem (1896)", "description": "Aunque posterior al levantamiento, el suicidio del líder de la UCR, Alem, marca un fin de época y consolida el liderazgo de su sobrino, Hipólito Yrigoyen, dentro del partido." }
-      ],
-      "importantFigures": [
-        { "name": "Leandro N. Alem", "birthDate": "11/03/1842", "deathDate": "01/07/1896", "nationality": "Argentino", "causeOfDeath": "Suicidio", "countryOfDeath": "Argentina" },
-        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
-        { "name": "Aristóbulo del Valle", "birthDate": "15/03/1845", "deathDate": "29/01/1896", "nationality": "Argentino", "causeOfDeath": "Diabetes", "countryOfDeath": "Argentina" }
-      ],
-      "images": ["https://picsum.photos/seed/116/600/400", "https://picsum.photos/seed/117/600/400", "https://picsum.photos/seed/118/600/400"],
-      "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_1893"],
-      "tags": ["levantamiento", "UCR", "siglo XIX", "fraude electoral"],
-      "latlng": { "lat": -34.6, "lng": -58.38 }
-    },
-    {
-      "id": "war_1930_golpe_militar",
-      "title": "Golpe de Estado de 1930",
-      "period": "1930",
-      "type": "Golpe de estado",
-      "summary": "El primer golpe de Estado exitoso en Argentina, que derrocó al presidente Hipólito Yrigoyen y dio inicio a la 'Década Infame'.",
-      "description": "Liderado por el general José Félix Uriburu, este golpe interrumpió el orden constitucional y estableció un gobierno militar de corte nacionalista y corporativista. Marcó el comienzo de un ciclo de inestabilidad política e intervenciones militares que duraría décadas.",
-      "turningPoints": [
-        { "title": "Derrocamiento de Yrigoyen", "description": "El 6 de septiembre, fuerzas militares lideradas por Uriburu marchan sobre Buenos Aires y deponen al presidente democráticamente electo, Hipólito Yrigoyen." },
-        { "title": "Instauración de la dictadura de Uriburu", "description": "Se establece un gobierno de facto que disuelve el Congreso, interviene provincias y anula libertades civiles, buscando un modelo de estado corporativista." },
-        { "title": "Comienzo de la Década Infame", "description": "El golpe da inicio a un período caracterizado por el fraude electoral, la corrupción y la exclusión política, conocido como la 'Década Infame'." }
-      ],
-      "importantFigures": [
-        { "name": "José Félix Uriburu", "birthDate": "20/07/1868", "deathDate": "29/04/1932", "nationality": "Argentino", "causeOfDeath": "Complicaciones postoperatorias", "countryOfDeath": "Francia" },
-        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
-        { "name": "Agustín P. Justo", "birthDate": "26/02/1876", "deathDate": "11/01/1943", "nationality": "Argentino", "causeOfDeath": "Derrame cerebral", "countryOfDeath": "Argentina" }
-      ],
-      "images": ["https://picsum.photos/seed/119/600/400", "https://picsum.photos/seed/120/600/400", "https://picsum.photos/seed/121/600/400"],
-      "sources": ["https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1930"],
-      "tags": ["golpe de estado", "Uriburu", "Yrigoyen", "siglo XX", "Década Infame"],
-      "latlng": { "lat": -34.6, "lng": -58.38 }
-    },
-    {
-      "id": "war_1955_revolucion_libertadora",
-      "title": "Revolución Libertadora",
-      "period": "1955",
-      "type": "Golpe de estado",
-      "summary": "Golpe de estado cívico-militar que derrocó al presidente Juan Domingo Perón y proscribió al peronismo.",
-      "description": "Tras un fallido intento en junio con el bombardeo a la Plaza de Mayo, el golpe se concretó en septiembre de 1955. El nuevo gobierno militar, autodenominado 'Revolución Libertadora', proscribió al peronismo y a Perón, quien se exilió. Este evento profundizó la grieta política en Argentina.",
-      "turningPoints": [
-        { "title": "Bombardeo de la Plaza de Mayo (junio 1955)", "description": "La aviación naval bombardea la Casa Rosada y la Plaza de Mayo en un intento de magnicidio contra Perón, causando cientos de muertes civiles.", "link": "https://es.wikipedia.org/wiki/Bombardeo_de_la_Plaza_de_Mayo" },
-        { "title": "Derrocamiento y exilio de Perón (septiembre 1955)", "description": "Un levantamiento militar iniciado en Córdoba se extiende por el país, forzando la renuncia y el exilio de Perón, quien no regresaría por 18 años." },
-        { "title": "Proscripción del peronismo", "description": "El régimen militar prohíbe por decreto toda actividad política peronista y la mera mención de los nombres de Perón y Evita, marcando la política argentina por décadas." }
-      ],
-      "importantFigures": [
-        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
-        { "name": "Eduardo Lonardi", "birthDate": "15/09/1896", "deathDate": "22/03/1956", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
-        { "name": "Pedro Eugenio Aramburu", "birthDate": "21/05/1903", "deathDate": "01/06/1970", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" }
-      ],
-      "images": ["https://picsum.photos/seed/122/600/400", "https://picsum.photos/seed/123/600/400", "https://picsum.photos/seed/124/600/400"],
-      "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora_(Argentina)"],
-      "tags": ["golpe de estado", "Perón", "siglo XX", "proscripción"],
-      "latlng": { "lat": -34.61, "lng": -58.38 }
-    },
-    {
-      "id": "war_1970_conflicto_interno",
-      "title": "Terrorismo de Estado y Guerrillas",
-      "period": "1970s",
-      "type": "Conflicto interno",
-      "summary": "Periodo de violencia política y accionar de organizaciones guerrilleras y terrorismo de Estado.",
-      "description": "La década de 1970 estuvo marcada por una escalada de violencia política, con el surgimiento de organizaciones guerrilleras como Montoneros y el ERP, y la respuesta represiva del Estado a través de la Triple A y, finalmente, la dictadura cívico-militar de 1976.",
-      "turningPoints": [
-        { "title": "Regreso de Perón (1973)", "description": "El retorno de Perón al país tras 18 años de exilio genera una enorme expectativa, pero también expone las violentas divisiones internas del movimiento peronista (Masacre de Ezeiza)." },
-        { "title": "Muerte de Perón y gobierno de Isabel Martínez (1974)", "description": "La muerte del líder deja un vacío de poder y su viuda, Isabel Perón, asume la presidencia. Su gobierno se ve desbordado por la crisis económica y la violencia política, con el accionar de la Triple A." },
-        { "title": "Golpe de Estado de 1976", "description": "Las Fuerzas Armadas toman el poder, instaurando la dictadura más sangrienta de la historia argentina, con un plan sistemático de secuestro, tortura y desaparición de personas.", "link": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1976" }
-      ],
-      "importantFigures": [
-        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
-        { "name": "Jorge Rafael Videla", "birthDate": "02/08/1925", "deathDate": "17/05/2013", "nationality": "Argentino", "causeOfDeath": "Causas naturales (en prisión)", "countryOfDeath": "Argentina" },
-        { "name": "Mario Firmenich", "birthDate": "24/01/1948", "deathDate": "Vivo", "nationality": "Argentino", "causeOfDeath": "-", "countryOfDeath": "-" }
-      ],
-      "images": ["https://picsum.photos/seed/125/600/400", "https://picsum.photos/seed/126/600/400", "https://picsum.photos/seed/127/600/400"],
-      "sources": ["https://es.wikipedia.org/wiki/Terrorismo_de_Estado_en_Argentina_en_las_d%C3%A9cadas_de_1970_y_1980"],
-      "tags": ["conflicto interno", "guerrilla", "dictadura", "siglo XX", "terrorismo de estado"],
-      "latlng": { "lat": -34.6, "lng": -58.38 }
     },
     {
       "id": "war_1982_malvinas",
       "title": "Guerra de las Malvinas",
       "period": "1982",
       "type": "Guerra internacional",
-      "summary": "Conflicto armado entre Argentina y el Reino Unido por la soberanía de las Islas Malvinas, Georgias del Sur y Sandwich del Sur.",
+      "summary": "Conflicto armado entre Argentina y el Reino Unido por la soberanía de las Islas Malvinas.",
       "description": "Iniciada por la dictadura militar argentina con la ocupación de las islas, la guerra duró 74 días y finalizó con la rendición argentina. El conflicto tuvo un alto costo en vidas y aceleró la caída del régimen militar, abriendo paso al retorno de la democracia en 1983. La soberanía de las islas sigue siendo un reclamo argentino.",
       "turningPoints": [
-        { "title": "Operación Rosario (2 de abril)", "description": "Tropas argentinas desembarcan en las Islas Malvinas y toman el control de la capital, Puerto Argentino, sin encontrar gran resistencia. La dictadura anuncia la 'recuperación' de las islas." },
+        { "title": "Operación Rosario (2 de abril)", "description": "Tropas argentinas desembarcan en las Islas Malvinas y toman el control de la capital, Puerto Argentino. La dictadura anuncia la 'recuperación' de las islas." },
         { "title": "Hundimiento del ARA General Belgrano (2 de mayo)", "description": "El submarino nuclear británico HMS Conqueror hunde al crucero argentino fuera de la zona de exclusión, causando 323 muertes. Este acto escala el conflicto a una guerra total.", "link": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_General_Belgrano" },
         { "title": "Rendición argentina (14 de junio)", "description": "Tras intensos combates, especialmente en los alrededores de Puerto Argentino, las fuerzas argentinas se rinden incondicionalmente, poniendo fin a la guerra." }
       ],
@@ -216,192 +128,10 @@
         { "name": "Margaret Thatcher", "birthDate": "13/10/1925", "deathDate": "08/04/2013", "nationality": "Británica", "causeOfDeath": "Accidente cerebrovascular", "countryOfDeath": "Reino Unido" },
         { "name": "Mario Benjamín Menéndez", "birthDate": "03/04/1930", "deathDate": "18/09/2015", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
-      "images": ["https://picsum.photos/seed/128/600/400", "https://picsum.photos/seed/129/600/400", "https://picsum.photos/seed/130/600/400"],
+      "images": ["https://picsum.photos/seed/malvinas-1/600/400", "https://picsum.photos/seed/malvinas-2/600/400", "https://picsum.photos/seed/malvinas-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas"],
       "tags": ["guerra internacional", "Reino Unido", "Malvinas", "siglo XX", "dictadura"],
       "latlng": { "lat": -51.7, "lng": -59.52 }
-    },
-    {
-      "id": "war_1918_reforma_universitaria",
-      "title": "Reforma Universitaria",
-      "period": "1918",
-      "type": "Levantamiento",
-      "summary": "Movimiento estudiantil que exigió la modernización y democratización de las universidades.",
-      "description": "Iniciado en Córdoba, el movimiento de la Reforma Universitaria luchó por principios como la autonomía universitaria, el cogobierno estudiantil, la libertad de cátedra y la gratuidad de la enseñanza. Sus ideas se expandieron por toda América Latina, transformando la educación superior en la región.",
-      "turningPoints": [
-        { "title": "Grito de Córdoba", "description": "Los estudiantes de la Universidad de Córdoba declaran una huelga general y publican el 'Manifiesto Liminar', un documento que resume sus demandas de reforma." },
-        { "title": "Intervención de la Universidad de Córdoba", "description": "El presidente Hipólito Yrigoyen decreta la intervención de la universidad, abriendo la puerta a la elección de nuevas autoridades y la redacción de nuevos estatutos." },
-        { "title": "Decreto de Reforma de Yrigoyen", "description": "El gobierno nacional aprueba los nuevos estatutos de la universidad, incorporando principios clave como la autonomía y el cogobierno, sentando un precedente para todo el país." }
-      ],
-      "importantFigures": [
-        { "name": "Deodoro Roca", "birthDate": "07/07/1890", "deathDate": "07/06/1942", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
-        { "name": "Enrique Barros", "birthDate": "08/07/1893", "deathDate": "27/11/1961", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
-        { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
-      ],
-      "images": [
-        "https://picsum.photos/seed/191/600/400",
-        "https://picsum.photos/seed/192/600/400",
-        "https://picsum.photos/seed/193/600/400"
-      ],
-      "sources": [
-        "https://es.wikipedia.org/wiki/Reforma_universitaria_de_1918"
-      ],
-      "tags": [
-        "educación",
-        "estudiantes",
-        "UCR",
-        "siglo XX",
-        "Córdoba"
-      ],
-      "latlng": {
-        "lat": -31.417,
-        "lng": -64.183
-      }
-    },
-    {
-      "id": "war_1945_dia_lealtad_peronista",
-      "title": "Día de la Lealtad Peronista",
-      "period": "1945",
-      "type": "Levantamiento",
-      "summary": "Masiva movilización obrera y sindical que exigió la liberación de Juan Domingo Perón.",
-      "description": "El 17 de octubre de 1945, una multitud de trabajadores se congregó en la Plaza de Mayo para exigir la liberación del entonces coronel Juan Domingo Perón, quien había sido detenido por el gobierno militar. Este evento marcó el nacimiento del peronismo como movimiento de masas y catapultó a Perón hacia la presidencia.",
-      "turningPoints": [
-        { "title": "Detención de Perón en la isla Martín García", "description": "Sectores conservadores del ejército, temerosos de su creciente poder, fuerzan la renuncia de Perón y lo detienen, buscando neutralizarlo políticamente." },
-        { "title": "Huelga general convocada por la CGT", "description": "La Confederación General del Trabajo (CGT) convoca a una huelga masiva que paraliza el país y moviliza a miles de trabajadores hacia la Plaza de Mayo." },
-        { "title": "Discurso de Perón desde el balcón de la Casa Rosada", "description": "Tras ser liberado por la presión popular, Perón se dirige a la multitud, sellando su pacto con los trabajadores y lanzando su carrera hacia la presidencia." }
-      ],
-      "importantFigures": [
-        { "name": "Juan Domingo Perón", "birthDate": "08/10/1895", "deathDate": "01/07/1974", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
-        { "name": "Eva Perón", "birthDate": "07/05/1919", "deathDate": "26/07/1952", "nationality": "Argentina", "causeOfDeath": "Cáncer de útero", "countryOfDeath": "Argentina" },
-        { "name": "Cipriano Reyes", "birthDate": "18/09/1906", "deathDate": "01/08/2001", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
-      ],
-      "images": [
-        "https://picsum.photos/seed/194/600/400",
-        "https://picsum.photos/seed/195/600/400",
-        "https://picsum.photos/seed/196/600/400"
-      ],
-      "sources": [
-        "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Lealtad"
-      ],
-      "tags": [
-        "peronismo",
-        "sindicalismo",
-        "siglo XX",
-        "Plaza de Mayo"
-      ],
-      "latlng": {
-        "lat": -34.608,
-        "lng": -58.374
-      }
-    },
-    {
-      "id": "war_1969_cordobazo",
-      "title": "El Cordobazo",
-      "period": "1969",
-      "type": "Levantamiento",
-      "summary": "Insurrección popular contra la dictadura militar de Juan Carlos Onganía.",
-      "description": "El Cordobazo fue una masiva protesta obrero-estudiantil ocurrida en la ciudad de Córdoba. La manifestación se oponía a las políticas económicas y sociales de la dictadura autodenominada 'Revolución Argentina'. Aunque fue duramente reprimida, debilitó al gobierno de Onganía y marcó un hito en la resistencia popular.",
-      "turningPoints": [
-        { "title": "Asesinato de Máximo Mena", "description": "Durante las primeras horas de la protesta, la policía asesina al obrero mecánico y estudiante Máximo Mena, lo que enardece a los manifestantes y generaliza la insurrección." },
-        { "title": "Toma de la ciudad por los manifestantes", "description": "Obreros y estudiantes toman el control del centro de la ciudad de Córdoba, levantando barricadas y enfrentándose a las fuerzas de seguridad durante horas." },
-        { "title": "Represión militar y fin de la protesta", "description": "El gobierno de Onganía ordena la intervención del ejército, que reprime brutalmente la protesta, pero el Cordobazo ya había demostrado la vulnerabilidad de la dictadura." }
-      ],
-      "importantFigures": [
-        { "name": "Agustín Tosco", "birthDate": "22/05/1930", "deathDate": "05/11/1975", "nationality": "Argentino", "causeOfDeath": "Encefalitis bacteriana", "countryOfDeath": "Argentina" },
-        { "name": "Elpidio Torres", "birthDate": "1923", "deathDate": "2000", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
-        { "name": "Atilio López", "birthDate": "05/02/1925", "deathDate": "16/09/1974", "nationality": "Argentino", "causeOfDeath": "Asesinato (Triple A)", "countryOfDeath": "Argentina" }
-      ],
-      "images": [
-        "https://picsum.photos/seed/197/600/400",
-        "https://picsum.photos/seed/198/600/400",
-        "https://picsum.photos/seed/199/600/400"
-      ],
-      "sources": [
-        "https://es.wikipedia.org/wiki/Cordobazo"
-      ],
-      "tags": [
-        "dictadura",
-        "sindicalismo",
-        "estudiantes",
-        "siglo XX",
-        "Córdoba"
-      ],
-      "latlng": {
-        "lat": -31.417,
-        "lng": -64.183
-      }
-    },
-    {
-      "id": "war_1989_hiperinflacion",
-      "title": "Saqueos por Hiperinflación",
-      "period": "1989",
-      "type": "Levantamiento",
-      "summary": "Olas de saqueos a supermercados y comercios en un contexto de hiperinflación galopante.",
-      "description": "En 1989, Argentina sufrió una severa crisis económica con tasas de inflación que llegaron a casi el 5000% anual. La crisis social derivó en saqueos y disturbios en varias ciudades, principalmente en Rosario y el conurbano bonaerense. Este estallido social aceleró la transición presidencial de Raúl Alfonsín a Carlos Menem.",
-      "turningPoints": [
-        { "title": "Escalada de precios y desabastecimiento", "description": "Una espiral inflacionaria sin control pulveriza los salarios y provoca la escasez de productos básicos, generando un clima de desesperación social." },
-        { "title": "Inicio de los saqueos en Rosario", "description": "A fines de mayo, comienzan los primeros saqueos masivos a supermercados en la ciudad de Rosario, que luego se extienden a otras partes del país." },
-        { "title": "Adelanto del traspaso de mando presidencial", "description": "La crisis social y económica se vuelve insostenible, forzando al presidente Raúl Alfonsín a entregar el poder de manera anticipada a su sucesor electo, Carlos Menem." }
-      ],
-      "importantFigures": [
-        { "name": "Raúl Alfonsín", "birthDate": "12/03/1927", "deathDate": "31/03/2009", "nationality": "Argentino", "causeOfDeath": "Cáncer de pulmón", "countryOfDeath": "Argentina" },
-        { "name": "Carlos Menem", "birthDate": "02/07/1930", "deathDate": "14/02/2021", "nationality": "Argentino", "causeOfDeath": "Infección urinaria", "countryOfDeath": "Argentina" },
-        { "name": "Juan Carlos Pugliese", "birthDate": "17/10/1915", "deathDate": "17/01/1994", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
-      ],
-      "images": [
-        "https://picsum.photos/seed/200/600/400",
-        "https://picsum.photos/seed/201/600/400",
-        "https://picsum.photos/seed/202/600/400"
-      ],
-      "sources": [
-        "https://es.wikipedia.org/wiki/Hiperinflaci%C3%B3n_argentina_de_1989_y_1990"
-      ],
-      "tags": [
-        "crisis económica",
-        "hiperinflación",
-        "democracia",
-        "siglo XX"
-      ],
-      "latlng": {
-        "lat": -32.95,
-        "lng": -60.64
-      }
-    },
-    {
-      "id": "war_2001_crisis_argentina",
-      "title": "Crisis de Diciembre de 2001",
-      "period": "2001",
-      "type": "Levantamiento",
-      "summary": "Estallido social y crisis institucional que provocó la renuncia del presidente Fernando de la Rúa.",
-      "description": "Tras años de recesión y una profunda crisis de deuda, el gobierno impuso el 'Corralito', una restricción a la extracción de depósitos bancarios. La medida desató una ola de protestas masivas, cacerolazos y disturbios que culminaron con la renuncia de De la Rúa y una semana de inestabilidad con cinco presidentes.",
-      "turningPoints": [
-        { "title": "Implementación del 'Corralito'", "description": "El ministro de economía, Domingo Cavallo, anuncia restricciones a la retirada de efectivo de los bancos, lo que desata la furia popular y la desconfianza en el sistema financiero." },
-        { "title": "Protestas del 19 y 20 de diciembre", "description": "Miles de personas salen a las calles en todo el país, golpeando cacerolas. La represión policial causa decenas de muertes y el presidente declara el estado de sitio." },
-        { "title": "Renuncia de Fernando de la Rúa", "description": "Acorralado por la crisis social y sin apoyo político, el presidente De la Rúa renuncia y abandona la Casa Rosada en helicóptero, una imagen icónica de la caída." }
-      ],
-      "importantFigures": [
-        { "name": "Fernando de la Rúa", "birthDate": "15/09/1937", "deathDate": "09/07/2019", "nationality": "Argentino", "causeOfDeath": "Problemas cardiovasculares", "countryOfDeath": "Argentina" },
-        { "name": "Domingo Cavallo", "birthDate": "21/07/1946", "deathDate": "Vivo", "nationality": "Argentino", "causeOfDeath": "-", "countryOfDeath": "-" },
-        { "name": "Eduardo Duhalde", "birthDate": "05/10/1941", "deathDate": "Vivo", "nationality": "Argentino", "causeOfDeath": "-", "countryOfDeath": "-" }
-      ],
-      "images": [
-        "https://picsum.photos/seed/203/600/400",
-        "https://picsum.photos/seed/204/600/400",
-        "https://picsum.photos/seed/205/600/400"
-      ],
-      "sources": [
-        "https://es.wikipedia.org/wiki/Crisis_de_diciembre_de_2001_en_Argentina"
-      ],
-      "tags": [
-        "crisis económica",
-        "democracia",
-        "siglo XXI",
-        "Corralito"
-      ],
-      "latlng": {
-        "lat": -34.609,
-        "lng": -58.382
-      }
     }
   ]
 }

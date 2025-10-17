@@ -39,7 +39,7 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
               {war.images.map((src, index) => (
                 <div key={index} className="relative aspect-video">
-                  <Image src={src} alt={`${war.title} - imagen ${index + 1}`} fill sizes="(max-width: 768px) 50vw, 33vw" className="rounded-md object-cover" data-ai-hint="historic war painting"/>
+                  <Image src={src} alt={`${war.title} - imagen ${index + 1}`} fill sizes="(max-width: 768px) 50vw, 33vw" className="rounded-md object-cover" data-ai-hint="historic battle"/>
                 </div>
               ))}
             </div>
