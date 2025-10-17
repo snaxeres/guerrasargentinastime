@@ -1,3 +1,4 @@
+
 {
   "wars": [
     {
@@ -8,9 +9,9 @@
       "summary": "Conflicto armado que llevó a la emancipación de Argentina del Imperio español, marcando el nacimiento de la nación.",
       "description": "La Guerra de la Independencia Argentina fue un conflicto complejo y prolongado. Se inició con la Revolución de Mayo en 1810 y se extendió por todo el territorio del antiguo Virreinato del Río de la Plata. Las campañas militares, lideradas por figuras como Manuel Belgrano y José de San Martín, fueron cruciales para asegurar la independencia, declarada formalmente en 1816.",
       "turningPoints": [
-        "Revolución de Mayo (1810)",
-        "Declaración de Independencia (1816)",
-        "Cruce de los Andes (1817)"
+        { "title": "Revolución de Mayo (1810)", "description": "El cabildo de Buenos Aires depone al virrey español y forma la Primera Junta, iniciando el camino hacia la autogestión y la independencia." },
+        { "title": "Declaración de Independencia (1816)", "description": "En el Congreso de Tucumán, los representantes de las Provincias Unidas del Río de la Plata declaran formalmente la independencia de España." },
+        { "title": "Cruce de los Andes (1817)", "description": "El Ejército de los Andes, liderado por San Martín, realiza una hazaña logística y militar al cruzar la cordillera para liberar a Chile, una estrategia clave para asegurar la independencia sudamericana." }
       ],
       "importantFigures": [
         "José de San Martín",
@@ -30,9 +31,9 @@
       "summary": "Serie de conflictos intermitentes entre unitarios y federales por la organización política del país.",
       "description": "Las guerras civiles argentinas fueron una larga serie de conflictos que enfrentaron a dos facciones principales: los unitarios, que abogaban por un gobierno centralizado en Buenos Aires, y los federales, que defendían la autonomía de las provincias. Estos enfrentamientos definieron la política argentina durante gran parte del siglo XIX.",
       "turningPoints": [
-        "Batalla de Cepeda (1820)",
-        "Gobierno de Juan Manuel de Rosas",
-        "Batalla de Caseros (1852)"
+        { "title": "Batalla de Cepeda (1820)", "description": "Los caudillos federales derrotan al Directorio unitario, disolviendo el gobierno central y dando inicio a la era de las autonomías provinciales." },
+        { "title": "Gobierno de Juan Manuel de Rosas", "description": "Rosas consolida el poder federal en la Confederación Argentina, imponiendo un orden autoritario que duraría casi dos décadas y manteniendo la unidad nacional bajo su hegemonía." },
+        { "title": "Batalla de Caseros (1852)", "description": "El Ejército Grande, liderado por Justo José de Urquiza, derrota a Rosas, poniendo fin a su largo gobierno y abriendo el camino para la sanción de la Constitución Nacional de 1853." }
       ],
       "importantFigures": [
         "Juan Manuel de Rosas",
@@ -52,9 +53,9 @@
       "summary": "Conflicto entre las Provincias Unidas del Río de la Plata y el Imperio del Brasil por el control de la Banda Oriental.",
       "description": "La Guerra del Brasil, también conocida como Guerra Cisplatina, se libró por la soberanía sobre la Provincia Cisplatina (actual Uruguay). Aunque Argentina obtuvo importantes victorias militares, como en la batalla de Ituzaingó, el resultado diplomático llevó a la independencia de Uruguay como un estado tapón.",
       "turningPoints": [
-        "Batalla de Ituzaingó (1827)",
-        "Bloqueo naval de Buenos Aires",
-        "Convención Preliminar de Paz (1828)"
+        { "title": "Batalla de Ituzaingó (1827)", "description": "El ejército republicano de las Provincias Unidas obtiene una victoria táctica decisiva sobre las fuerzas imperiales de Brasil, aunque no logra definir la guerra." },
+        { "title": "Bloqueo naval de Buenos Aires", "description": "La armada brasileña impone un bloqueo económico que afecta gravemente el comercio de Buenos Aires, presionando para una resolución del conflicto." },
+        { "title": "Convención Preliminar de Paz (1828)", "description": "Mediante la diplomacia británica, se acuerda la creación de un estado independiente en la Banda Oriental, la actual República Oriental del Uruguay, para finalizar la guerra." }
       ],
       "importantFigures": [
         "Guillermo Brown",
@@ -74,9 +75,9 @@
       "summary": "El conflicto más sangriento de la historia de Sudamérica, donde Argentina, Brasil y Uruguay se aliaron contra Paraguay.",
       "description": "Argentina entró en la guerra después de que las tropas paraguayas invadieran Corrientes. Fue un conflicto devastador, especialmente para Paraguay, que sufrió una catástrofe demográfica. La guerra reconfiguró las fronteras y el equilibrio de poder en la región.",
       "turningPoints": [
-        "Invasión paraguaya de Corrientes (1865)",
-        "Batalla de Curupaytí (1866)",
-        "Saqueo de Asunción (1869)"
+        { "title": "Invasión paraguaya de Corrientes (1865)", "description": "El ataque paraguayo a territorio argentino sin previa declaración de guerra provoca la entrada de Argentina en el conflicto, formando la Triple Alianza con Brasil y Uruguay." },
+        { "title": "Batalla de Curupaytí (1866)", "description": "Una defensa paraguaya formidable inflige una derrota humillante a las fuerzas aliadas, demostrando la tenacidad de la resistencia y prolongando la guerra significativamente." },
+        { "title": "Saqueo de Asunción (1869)", "description": "Las tropas aliadas toman y saquean la capital paraguaya, un acto que simboliza la brutalidad del conflicto y la inminente derrota de Paraguay." }
       ],
       "importantFigures": [
         "Bartolomé Mitre",
@@ -96,9 +97,9 @@
       "summary": "Campaña militar liderada por Julio A. Roca para ejercer el dominio efectivo sobre los territorios de la Patagonia.",
       "description": "La campaña, justificada como una 'conquista del desierto', tuvo como objetivo expandir la frontera sur de Argentina, incorporando tierras para la producción agrícola y ganadera. Resultó en el sometimiento de los pueblos indígenas de la región, como los mapuches y tehuelches, y es un tema de profundo debate histórico.",
       "turningPoints": [
-        "Ley de Avellaneda (1878)",
-        "Ofensiva final de Roca (1879)",
-        "Rendición de los últimos caciques"
+        { "title": "Ley de Avellaneda (1878)", "description": "El Congreso aprueba la ley que autoriza una ofensiva militar para ocupar los territorios al sur del río Negro, dando el marco legal a la campaña de Roca." },
+        { "title": "Ofensiva final de Roca (1879)", "description": "Roca lanza una campaña masiva y rápida con 6,000 soldados, utilizando tecnología moderna como el telégrafo y los fusiles Remington, desarticulando la resistencia indígena." },
+        { "title": "Rendición de los últimos caciques", "description": "Con la captura y rendición de los principales líderes indígenas como Namuncurá y Sayhueque, el Estado argentino consolida su control sobre la Patagonia." }
       ],
       "importantFigures": [
         "Julio Argentino Roca",
@@ -118,9 +119,9 @@
       "summary": "Revolución organizada por la Unión Cívica Radical contra el gobierno conservador, exigiendo elecciones libres.",
       "description": "La Revolución de 1893 fue un intento de la UCR, liderada por Leandro N. Alem e Hipólito Yrigoyen, de tomar el poder por las armas ante el fraude electoral sistemático del régimen oligárquico. Aunque fue sofocada, sentó las bases para la futura reforma electoral.",
       "turningPoints": [
-        "Toma de La Plata",
-        "Intervención federal en provincias rebeldes",
-        "Suicidio de Leandro N. Alem (1896)"
+        { "title": "Toma de La Plata", "description": "Los revolucionarios radicales logran tomar el control de la capital de la provincia de Buenos Aires, uno de los puntos álgidos del levantamiento." },
+        { "title": "Intervención federal en provincias rebeldes", "description": "El gobierno nacional decreta la intervención federal en las provincias de Buenos Aires, Santa Fe y San Luis, movilizando al ejército para sofocar la rebelión." },
+        { "title": "Suicidio de Leandro N. Alem (1896)", "description": "Aunque posterior al levantamiento, el suicidio del líder de la UCR, Alem, marca un fin de época y consolida el liderazgo de su sobrino, Hipólito Yrigoyen, dentro del partido." }
       ],
       "importantFigures": [
         "Leandro N. Alem",
@@ -140,9 +141,9 @@
       "summary": "El primer golpe de Estado exitoso en Argentina, que derrocó al presidente Hipólito Yrigoyen y dio inicio a la 'Década Infame'.",
       "description": "Liderado por el general José Félix Uriburu, este golpe interrumpió el orden constitucional y estableció un gobierno militar de corte nacionalista y corporativista. Marcó el comienzo de un ciclo de inestabilidad política e intervenciones militares que duraría décadas.",
       "turningPoints": [
-        "Derrocamiento de Yrigoyen",
-        "Instauración de la dictadura de Uriburu",
-        "Comienzo de la Década Infame"
+        { "title": "Derrocamiento de Yrigoyen", "description": "El 6 de septiembre, fuerzas militares lideradas por Uriburu marchan sobre Buenos Aires y deponen al presidente democráticamente electo, Hipólito Yrigoyen." },
+        { "title": "Instauración de la dictadura de Uriburu", "description": "Se establece un gobierno de facto que disuelve el Congreso, interviene provincias y anula libertades civiles, buscando un modelo de estado corporativista." },
+        { "title": "Comienzo de la Década Infame", "description": "El golpe da inicio a un período caracterizado por el fraude electoral, la corrupción y la exclusión política, conocido como la 'Década Infame'." }
       ],
       "importantFigures": [
         "José Félix Uriburu",
@@ -162,9 +163,9 @@
       "summary": "Golpe de estado cívico-militar que derrocó al presidente Juan Domingo Perón y proscribió al peronismo.",
       "description": "Tras un fallido intento en junio con el bombardeo a la Plaza de Mayo, el golpe se concretó en septiembre de 1955. El nuevo gobierno militar, autodenominado 'Revolución Libertadora', proscribió al peronismo y a Perón, quien se exilió. Este evento profundizó la grieta política en Argentina.",
       "turningPoints": [
-        "Bombardeo de la Plaza de Mayo (junio 1955)",
-        "Derrocamiento y exilio de Perón (septiembre 1955)",
-        "Proscripción del peronismo"
+        { "title": "Bombardeo de la Plaza de Mayo (junio 1955)", "description": "La aviación naval bombardea la Casa Rosada y la Plaza de Mayo en un intento de magnicidio contra Perón, causando cientos de muertes civiles." },
+        { "title": "Derrocamiento y exilio de Perón (septiembre 1955)", "description": "Un levantamiento militar iniciado en Córdoba se extiende por el país, forzando la renuncia y el exilio de Perón, quien no regresaría por 18 años." },
+        { "title": "Proscripción del peronismo", "description": "El régimen militar prohíbe por decreto toda actividad política peronista y la mera mención de los nombres de Perón y Evita, marcando la política argentina por décadas." }
       ],
       "importantFigures": [
         "Juan Domingo Perón",
@@ -184,9 +185,9 @@
       "summary": "Periodo de violencia política y accionar de organizaciones guerrilleras y terrorismo de Estado.",
       "description": "La década de 1970 estuvo marcada por una escalada de violencia política, con el surgimiento de organizaciones guerrilleras como Montoneros y el ERP, y la respuesta represiva del Estado a través de la Triple A y, finalmente, la dictadura cívico-militar de 1976.",
       "turningPoints": [
-        "Regreso de Perón (1973)",
-        "Muerte de Perón y gobierno de Isabel Martínez (1974)",
-        "Golpe de Estado de 1976"
+        { "title": "Regreso de Perón (1973)", "description": "El retorno de Perón al país tras 18 años de exilio genera una enorme expectativa, pero también expone las violentas divisiones internas del movimiento peronista (Masacre de Ezeiza)." },
+        { "title": "Muerte de Perón y gobierno de Isabel Martínez (1974)", "description": "La muerte del líder deja un vacío de poder y su viuda, Isabel Perón, asume la presidencia. Su gobierno se ve desbordado por la crisis económica y la violencia política, con el accionar de la Triple A." },
+        { "title": "Golpe de Estado de 1976", "description": "Las Fuerzas Armadas toman el poder, instaurando la dictadura más sangrienta de la historia argentina, con un plan sistemático de secuestro, tortura y desaparición de personas." }
       ],
       "importantFigures": [
         "Juan Domingo Perón",
@@ -206,9 +207,9 @@
       "summary": "Conflicto armado entre Argentina y el Reino Unido por la soberanía de las Islas Malvinas, Georgias del Sur y Sandwich del Sur.",
       "description": "Iniciada por la dictadura militar argentina con la ocupación de las islas, la guerra duró 74 días y finalizó con la rendición argentina. El conflicto tuvo un alto costo en vidas y aceleró la caída del régimen militar, abriendo paso al retorno de la democracia en 1983. La soberanía de las islas sigue siendo un reclamo argentino.",
       "turningPoints": [
-        "Operación Rosario (2 de abril)",
-        "Hundimiento del ARA General Belgrano (2 de mayo)",
-        "Rendición argentina (14 de junio)"
+        { "title": "Operación Rosario (2 de abril)", "description": "Tropas argentinas desembarcan en las Islas Malvinas y toman el control de la capital, Puerto Argentino, sin encontrar gran resistencia. La dictadura anuncia la 'recuperación' de las islas." },
+        { "title": "Hundimiento del ARA General Belgrano (2 de mayo)", "description": "El submarino nuclear británico HMS Conqueror hunde al crucero argentino fuera de la zona de exclusión, causando 323 muertes. Este acto escala el conflicto a una guerra total." },
+        { "title": "Rendición argentina (14 de junio)", "description": "Tras intensos combates, especialmente en los alrededores de Puerto Argentino, las fuerzas argentinas se rinden incondicionalmente, poniendo fin a la guerra." }
       ],
       "importantFigures": [
         "Leopoldo Galtieri",
@@ -228,9 +229,9 @@
       "summary": "Movimiento estudiantil que exigió la modernización y democratización de las universidades.",
       "description": "Iniciado en Córdoba, el movimiento de la Reforma Universitaria luchó por principios como la autonomía universitaria, el cogobierno estudiantil, la libertad de cátedra y la gratuidad de la enseñanza. Sus ideas se expandieron por toda América Latina, transformando la educación superior en la región.",
       "turningPoints": [
-        "Grito de Córdoba",
-        "Intervención de la Universidad de Córdoba",
-        "Decreto de Reforma de Yrigoyen"
+        { "title": "Grito de Córdoba", "description": "Los estudiantes de la Universidad de Córdoba declaran una huelga general y publican el 'Manifiesto Liminar', un documento que resume sus demandas de reforma." },
+        { "title": "Intervención de la Universidad de Córdoba", "description": "El presidente Hipólito Yrigoyen decreta la intervención de la universidad, abriendo la puerta a la elección de nuevas autoridades y la redacción de nuevos estatutos." },
+        { "title": "Decreto de Reforma de Yrigoyen", "description": "El gobierno nacional aprueba los nuevos estatutos de la universidad, incorporando principios clave como la autonomía y el cogobierno, sentando un precedente para todo el país." }
       ],
       "importantFigures": [
         "Deodoro Roca",
@@ -265,9 +266,9 @@
       "summary": "Masiva movilización obrera y sindical que exigió la liberación de Juan Domingo Perón.",
       "description": "El 17 de octubre de 1945, una multitud de trabajadores se congregó en la Plaza de Mayo para exigir la liberación del entonces coronel Juan Domingo Perón, quien había sido detenido por el gobierno militar. Este evento marcó el nacimiento del peronismo como movimiento de masas y catapultó a Perón hacia la presidencia.",
       "turningPoints": [
-        "Detención de Perón en la isla Martín García",
-        "Huelga general convocada por la CGT",
-        "Discurso de Perón desde el balcón de la Casa Rosada"
+        { "title": "Detención de Perón en la isla Martín García", "description": "Sectores conservadores del ejército, temerosos de su creciente poder, fuerzan la renuncia de Perón y lo detienen, buscando neutralizarlo políticamente." },
+        { "title": "Huelga general convocada por la CGT", "description": "La Confederación General del Trabajo (CGT) convoca a una huelga masiva que paraliza el país y moviliza a miles de trabajadores hacia la Plaza de Mayo." },
+        { "title": "Discurso de Perón desde el balcón de la Casa Rosada", "description": "Tras ser liberado por la presión popular, Perón se dirige a la multitud, sellando su pacto con los trabajadores y lanzando su carrera hacia la presidencia." }
       ],
       "importantFigures": [
         "Juan Domingo Perón",
@@ -301,9 +302,9 @@
       "summary": "Insurrección popular contra la dictadura militar de Juan Carlos Onganía.",
       "description": "El Cordobazo fue una masiva protesta obrero-estudiantil ocurrida en la ciudad de Córdoba. La manifestación se oponía a las políticas económicas y sociales de la dictadura autodenominada 'Revolución Argentina'. Aunque fue duramente reprimida, debilitó al gobierno de Onganía y marcó un hito en la resistencia popular.",
       "turningPoints": [
-        "Asesinato de Máximo Mena",
-        "Toma de la ciudad por los manifestantes",
-        "Represión militar y fin de la protesta"
+        { "title": "Asesinato de Máximo Mena", "description": "Durante las primeras horas de la protesta, la policía asesina al obrero mecánico y estudiante Máximo Mena, lo que enardece a los manifestantes y generaliza la insurrección." },
+        { "title": "Toma de la ciudad por los manifestantes", "description": "Obreros y estudiantes toman el control del centro de la ciudad de Córdoba, levantando barricadas y enfrentándose a las fuerzas de seguridad durante horas." },
+        { "title": "Represión militar y fin de la protesta", "description": "El gobierno de Onganía ordena la intervención del ejército, que reprime brutalmente la protesta, pero el Cordobazo ya había demostrado la vulnerabilidad de la dictadura." }
       ],
       "importantFigures": [
         "Agustín Tosco",
@@ -338,9 +339,9 @@
       "summary": "Olas de saqueos a supermercados y comercios en un contexto de hiperinflación galopante.",
       "description": "En 1989, Argentina sufrió una severa crisis económica con tasas de inflación que llegaron a casi el 5000% anual. La crisis social derivó en saqueos y disturbios en varias ciudades, principalmente en Rosario y el conurbano bonaerense. Este estallido social aceleró la transición presidencial de Raúl Alfonsín a Carlos Menem.",
       "turningPoints": [
-        "Escalada de precios y desabastecimiento",
-        "Inicio de los saqueos en Rosario",
-        "Adelanto del traspaso de mando presidencial"
+        { "title": "Escalada de precios y desabastecimiento", "description": "Una espiral inflacionaria sin control pulveriza los salarios y provoca la escasez de productos básicos, generando un clima de desesperación social." },
+        { "title": "Inicio de los saqueos en Rosario", "description": "A fines de mayo, comienzan los primeros saqueos masivos a supermercados en la ciudad de Rosario, que luego se extienden a otras partes del país." },
+        { "title": "Adelanto del traspaso de mando presidencial", "description": "La crisis social y económica se vuelve insostenible, forzando al presidente Raúl Alfonsín a entregar el poder de manera anticipada a su sucesor electo, Carlos Menem." }
       ],
       "importantFigures": [
         "Raúl Alfonsín",
@@ -374,9 +375,9 @@
       "summary": "Estallido social y crisis institucional que provocó la renuncia del presidente Fernando de la Rúa.",
       "description": "Tras años de recesión y una profunda crisis de deuda, el gobierno impuso el 'Corralito', una restricción a la extracción de depósitos bancarios. La medida desató una ola de protestas masivas, cacerolazos y disturbios que culminaron con la renuncia de De la Rúa y una semana de inestabilidad con cinco presidentes.",
       "turningPoints": [
-        "Implementación del 'Corralito'",
-        "Protestas del 19 y 20 de diciembre",
-        "Renuncia de Fernando de la Rúa"
+        { "title": "Implementación del 'Corralito'", "description": "El ministro de economía, Domingo Cavallo, anuncia restricciones a la retirada de efectivo de los bancos, lo que desata la furia popular y la desconfianza en el sistema financiero." },
+        { "title": "Protestas del 19 y 20 de diciembre", "description": "Miles de personas salen a las calles en todo el país, golpeando cacerolas. La represión policial causa decenas de muertes y el presidente declara el estado de sitio." },
+        { "title": "Renuncia de Fernando de la Rúa", "description": "Acorralado por la crisis social y sin apoyo político, el presidente De la Rúa renuncia y abandona la Casa Rosada en helicóptero, una imagen icónica de la caída." }
       ],
       "importantFigures": [
         "Fernando de la Rúa",

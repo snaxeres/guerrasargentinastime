@@ -1,9 +1,16 @@
+
 import type { War } from '@/lib/types';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog';
 import { ScrollArea } from '@/components/ui/scroll-area';
 import Image from 'next/image';
 import { Badge } from '@/components/ui/badge';
 import { Calendar, BookOpen, Link as LinkIcon, Tag, Star, Users } from 'lucide-react';
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion"
 
 interface WarModalProps {
   war: War;
@@ -43,11 +50,16 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
                         <Star className="w-4 h-4 mr-2" />
                         Puntos de Inflexión
                     </h3>
-                    <ul className="space-y-2 list-disc list-inside text-muted-foreground">
-                        {war.turningPoints.map((point, index) => (
-                            <li key={index}>{point}</li>
-                        ))}
-                    </ul>
+                    <Accordion type="single" collapsible className="w-full">
+                      {war.turningPoints.map((point, index) => (
+                        <AccordionItem value={`item-${index}`} key={index}>
+                          <AccordionTrigger>{point.title}</AccordionTrigger>
+                          <AccordionContent className="text-muted-foreground">
+                            {point.description}
+                          </AccordionContent>
+                        </AccordionItem>
+                      ))}
+                    </Accordion>
                 </div>
             )}
 
