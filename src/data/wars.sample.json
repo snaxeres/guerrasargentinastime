@@ -69,7 +69,26 @@
         { "name": "Justo José de Urquiza", "birthDate": "18/10/1801", "deathDate": "11/04/1870", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
         { "name": "Juan Lavalle", "birthDate": "17/10/1797", "deathDate": "09/10/1841", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Bolivia" }
       ],
-      "battles": [],
+      "battles": [
+        {
+          "title": "Batalla de Cepeda (1820)",
+          "lugar": "Cañada de Cepeda, Santa Fe",
+          "comandantesPatriotas": ["José Rondeau (unitario)"],
+          "comandantesRealistas": ["Francisco Ramírez (federal)", "Estanislao López (federal)"],
+          "desarrollo": "Las fuerzas de los caudillos federales de Santa Fe y Entre Ríos avanzaron sobre Buenos Aires. El ejército directorial, debilitado y desmoralizado, fue rápidamente arrollado por la caballería federal en una batalla que duró apenas unos minutos.",
+          "resultado": "Victoria decisiva de los federales.",
+          "importanciaHistorica": "Provocó la disolución del poder central (Directorio y Congreso). Inició el período de las autonomías provinciales y la primera experiencia federal, aunque caótica. Marcó el fin del primer intento de organización centralista."
+        },
+        {
+          "title": "Batalla de Caseros (1852)",
+          "lugar": "Caseros, Provincia de Buenos Aires",
+          "comandantesPatriotas": ["Justo José de Urquiza (Ejército Grande)"],
+          "comandantesRealistas": ["Juan Manuel de Rosas (Confederación)"],
+          "desarrollo": "El 'Ejército Grande', una alianza de Entre Ríos, Corrientes, Uruguay y Brasil liderada por Urquiza, cruzó el río Paraná y avanzó sobre Buenos Aires. El ejército de Rosas, aunque numeroso, estaba compuesto en parte por tropas poco leales. La batalla fue masiva y, tras unas horas de combate, las fuerzas rosistas se desbandaron.",
+          "resultado": "Victoria decisiva del Ejército Grande y caída de Rosas.",
+          "importanciaHistorica": "Puso fin al largo gobierno de Rosas. Abrió el camino para la organización nacional y la sanción de la Constitución de 1853, estableciendo las bases de la Argentina moderna. Marcó el comienzo del período de la 'Organización Nacional'."
+        }
+      ],
       "images": ["https://picsum.photos/seed/civil-war-1/600/400", "https://picsum.photos/seed/civil-war-2/600/400", "https://picsum.photos/seed/civil-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerras_civiles_argentinas"],
       "tags": ["guerra civil", "unitarios", "federales", "siglo XIX", "Rosas"],
@@ -92,7 +111,26 @@
         { "name": "Carlos María de Alvear", "birthDate": "25/10/1789", "deathDate": "03/11/1852", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Estados Unidos" },
         { "name": "Pedro I de Brasil", "birthDate": "12/10/1798", "deathDate": "24/09/1834", "nationality": "Brasileño-Portugués", "causeOfDeath": "Tuberculosis", "countryOfDeath": "Portugal" }
       ],
-      "battles": [],
+      "battles": [
+        {
+          "title": "Batalla de Juncal (1827)",
+          "lugar": "Río de la Plata, cerca de la isla Juncal",
+          "comandantesPatriotas": ["Guillermo Brown"],
+          "comandantesRealistas": ["Sena Pereira (Imperio del Brasil)"],
+          "desarrollo": "La escuadra argentina al mando de Brown se enfrentó a una escuadra brasileña superior en número. Mediante una hábil maniobra, Brown dividió a la flota enemiga y la destruyó por partes en dos días de combate.",
+          "resultado": "Victoria naval decisiva para Argentina.",
+          "importanciaHistorica": "Fue la victoria naval más importante de la historia argentina. Anuló el poder naval brasileño en el Río de la Plata y el río Uruguay, aunque no pudo romper el bloqueo sobre Buenos Aires."
+        },
+        {
+          "title": "Batalla de Ituzaingó (1827)",
+          "lugar": "Campos de Ituzaingó, Rio Grande do Sul, Brasil",
+          "comandantesPatriotas": ["Carlos María de Alvear"],
+          "comandantesRealistas": ["Marqués de Barbacena (Imperio del Brasil)"],
+          "desarrollo": "Fue la batalla terrestre más grande de la guerra. El ejército republicano argentino-oriental sorprendió al ejército brasileño. Tras un día de duros combates, las fuerzas imperiales se retiraron del campo de batalla.",
+          "resultado": "Importante victoria terrestre para las Provincias Unidas.",
+          "importanciaHistorica": "A pesar de la victoria, Alvear no persiguió al ejército brasileño en retirada, lo que impidió que la victoria fuera decisiva para ganar la guerra. Sin embargo, tuvo un gran impacto moral y forzó al Imperio del Brasil a negociar."
+        }
+      ],
       "images": ["https://picsum.photos/seed/brasil-war-1/600/400", "https://picsum.photos/seed/brasil-war-2/600/400", "https://picsum.photos/seed/brasil-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_del_Brasil"],
       "tags": ["guerra internacional", "Brasil", "Uruguay", "siglo XIX", "Banda Oriental"],
@@ -133,7 +171,17 @@
         { "name": "Juan Manuel de Rosas", "birthDate": "30/03/1793", "deathDate": "14/03/1877", "nationality": "Argentino", "causeOfDeath": "Neumonía", "countryOfDeath": "Reino Unido" },
         { "name": "Lucio Norberto Mansilla", "birthDate": "04/03/1792", "deathDate": "10/04/1871", "nationality": "Argentino", "causeOfDeath": "Fiebre amarilla", "countryOfDeath": "Argentina" }
       ],
-      "battles": [],
+      "battles": [
+        {
+            "title": "Combate de la Vuelta de Obligado (1845)",
+            "lugar": "Río Paraná, Vuelta de Obligado, Buenos Aires",
+            "comandantesPatriotas": ["Lucio N. Mansilla"],
+            "comandantesRealistas": ["Charles Hotham (GB)", "François-Thomas Tréhouart (FR)"],
+            "desarrollo": "Las fuerzas de la Confederación Argentina tendieron tres gruesas cadenas a través del río Paraná para impedir el paso de la flota anglo-francesa. Desde las orillas, la artillería y las tropas argentinas combatieron durante horas contra los buques de guerra más avanzados de la época. A pesar del coraje, la flota invasora logró cortar las cadenas y pasar.",
+            "resultado": "Derrota táctica para Argentina, pero victoria estratégica y moral.",
+            "importanciaHistorica": "Aunque la flota enemiga pasó, el combate demostró al mundo que la Confederación estaba dispuesta a defender su soberanía a un costo muy alto. La resistencia fue tan costosa para los invasores que, a la larga, hizo inviable su empresa comercial. Se convirtió en un ícono de la defensa de la soberanía nacional argentina."
+        }
+      ],
       "images": ["https://picsum.photos/seed/vuelta-obligado/600/400", "https://picsum.photos/seed/bloqueo-anglo/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Bloqueo_anglo-franc%C3%A9s_del_R%C3%ADo_de_la_Plata"],
       "tags": ["Vuelta de Obligado", "soberanía", "Rosas", "siglo XIX", "Inglaterra"],
@@ -156,7 +204,26 @@
         { "name": "Francisco Solano López", "birthDate": "24/07/1827", "deathDate": "01/03/1870", "nationality": "Paraguayo", "causeOfDeath": "Herida de lanza", "countryOfDeath": "Paraguay" },
         { "name": "Duque de Caxias", "birthDate": "25/08/1803", "deathDate": "07/05/1880", "nationality": "Brasileño", "causeOfDeath": "Causas naturales", "countryOfDeath": "Brasil" }
       ],
-      "battles": [],
+      "battles": [
+        {
+          "title": "Batalla de Tuyutí (1866)",
+          "lugar": "Tuyutí, Paraguay",
+          "comandantesPatriotas": ["Bartolomé Mitre (Aliados)"],
+          "comandantesRealistas": ["José E. Díaz, Bernardino Caballero (Paraguay)"],
+          "desarrollo": "El ejército paraguayo lanzó un ataque sorpresa masivo sobre el campamento aliado. Fue la batalla más grande y sangrienta de la historia de Sudamérica. Tras un día de combate brutal y caótico, el ataque paraguayo fue rechazado con enormes pérdidas para ambos bandos.",
+          "resultado": "Victoria defensiva de los Aliados.",
+          "importanciaHistorica": "Destruyó la mayor parte del ejército paraguayo, que a partir de entonces se vio forzado a una guerra defensiva y de guerrillas. A pesar de la victoria, las pérdidas aliadas fueron tan grandes que frenaron su avance durante meses."
+        },
+        {
+          "title": "Batalla de Curupaytí (1866)",
+          "lugar": "Curupaytí, Paraguay",
+          "comandantesPatriotas": ["Bartolomé Mitre (Aliados)"],
+          "comandantesRealistas": ["José E. Díaz (Paraguay)"],
+          "desarrollo": "Las fuerzas aliadas, principalmente argentinas y brasileñas, lanzaron un asalto frontal contra las trincheras paraguayas de Curupaytí, consideradas inexpugnables. La defensa paraguaya, bien preparada y liderada por el general Díaz, masacró a las tropas atacantes.",
+          "resultado": "Victoria decisiva de Paraguay. Derrota humillante para los Aliados.",
+          "importanciaHistorica": "Fue la mayor victoria paraguaya de la guerra y una de las peores derrotas de la historia militar argentina. Demostró la ineficacia de los ataques frontales y provocó una crisis de mando en los ejércitos aliados. Mitre se retiró del comando directo."
+        }
+      ],
       "images": ["https://picsum.photos/seed/triple-alianza-1/600/400", "https://picsum.photos/seed/triple-alianza-2/600/400", "https://picsum.photos/seed/triple-alianza-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza"],
       "tags": ["guerra internacional", "Paraguay", "Brasil", "siglo XIX", "Corrientes"],
@@ -177,7 +244,17 @@
         { "name": "Ricardo López Jordán", "birthDate": "30/08/1822", "deathDate": "22/06/1889", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
         { "name": "Domingo F. Sarmiento", "birthDate": "15/02/1811", "deathDate": "11/09/1888", "nationality": "Argentino", "causeOfDeath": "Ataque al corazón", "countryOfDeath": "Paraguay" }
       ],
-      "battles": [],
+      "battles": [
+        {
+          "title": "Batalla de Ñaembé (1871)",
+          "lugar": "Arroyo Ñaembé, Corrientes",
+          "comandantesPatriotas": ["Julio Argentino Roca (Ejército Nacional)"],
+          "comandantesRealistas": ["Ricardo López Jordán (Federales)"],
+          "desarrollo": "Las fuerzas nacionales, equipadas con armamento moderno y tácticas aprendidas en la Guerra del Paraguay, se enfrentaron al ejército federal de López Jordán. La superioridad del armamento y la disciplina del ejército nacional fueron decisivas.",
+          "resultado": "Victoria decisiva del Ejército Nacional.",
+          "importanciaHistorica": "Significó el fin de la primera (y más importante) rebelión jordanista. Consolidó el poder del estado nacional sobre las provincias y marcó el declive final de los ejércitos federales de los caudillos provinciales."
+        }
+      ],
       "images": ["https://picsum.photos/seed/jordan-1/600/400", "https://picsum.photos/seed/jordan-2/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Rebeli%C3%B3n_jordanista"],
       "tags": ["rebelión", "federalismo", "Entre Ríos", "Sarmiento", "siglo XIX"],
@@ -306,7 +383,17 @@
         { "name": "Eduardo Lonardi", "birthDate": "15/09/1896", "deathDate": "22/03/1956", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
         { "name": "Pedro Eugenio Aramburu", "birthDate": "21/05/1903", "deathDate": "01/06/1970", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" }
       ],
-      "battles": [],
+      "battles": [
+        {
+          "title": "Bombardeo de la Plaza de Mayo",
+          "lugar": "Plaza de Mayo, Buenos Aires",
+          "comandantesPatriotas": ["(Gobierno Constitucional)"],
+          "comandantesRealistas": ["Aviadores navales y civiles antiperonistas"],
+          "desarrollo": "En un intento de magnicidio, aviones de la Aviación Naval y la Fuerza Aérea bombardearon y ametrallaron la Casa de Gobierno y la Plaza de Mayo, llena de civiles. El ataque fue indiscriminado y brutal.",
+          "resultado": "Fracaso del intento de golpe; masacre de civiles.",
+          "importanciaHistorica": "Es considerado el bautismo de fuego del terrorismo de Estado en la Argentina contemporánea. Murieron más de 300 personas. El evento exacerbó la polarización y fue el preludio sangriento del golpe que se concretaría tres meses después."
+        }
+      ],
       "images": ["https://picsum.photos/seed/libertadora-1/600/400", "https://picsum.photos/seed/bombardeo-1/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora"],
       "tags": ["golpe de estado", "Perón", "proscripción", "siglo XX", "bombardeo"],
@@ -351,7 +438,26 @@
         { "name": "Margaret Thatcher", "birthDate": "13/10/1925", "deathDate": "08/04/2013", "nationality": "Británica", "causeOfDeath": "Accidente cerebrovascular", "countryOfDeath": "Reino Unido" },
         { "name": "Mario Benjamín Menéndez", "birthDate": "03/04/1930", "deathDate": "18/09/2015", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
-      "battles": [],
+      "battles": [
+        {
+          "title": "Batalla de Pradera del Ganso (Goose Green)",
+          "lugar": "Istmo de Darwin, Isla Soledad",
+          "comandantesPatriotas": ["Ítalo Piaggi"],
+          "comandantesRealistas": ["Herbert Jones (Reino Unido)"],
+          "desarrollo": "Fue el primer gran enfrentamiento terrestre de la guerra. Tropas paracaidistas británicas atacaron las posiciones argentinas bien defendidas. El combate fue feroz y se extendió por más de un día. A pesar de la fuerte resistencia argentina, la superioridad en entrenamiento y logística británica se impuso.",
+          "resultado": "Victoria británica.",
+          "importanciaHistorica": "La victoria levantó la moral británica y demostró que sus tropas terrestres podían superar a las defensas argentinas. El comandante británico, 'H' Jones, murió en acción y recibió la Cruz Victoria póstumamente. Fue una dura derrota para Argentina."
+        },
+        {
+            "title": "Batalla del Monte Longdon",
+            "lugar": "Monte Longdon, cerca de Puerto Argentino",
+            "comandantesPatriotas": ["Ricardo M. Reta (subteniente a cargo)"],
+            "comandantesRealistas": ["Mike Scott (Reino Unido)"],
+            "desarrollo": "Uno de los combates más sangrientos y cercanos de la guerra, luchado de noche y a corta distancia. Paracaidistas británicos asaltaron las posiciones defendidas por el Regimiento de Infantería 7 de Argentina. La lucha fue bayoneta a bayoneta en las trincheras.",
+            "resultado": "Victoria británica.",
+            "importanciaHistorica": "La captura de Longdon, junto con la de otros montes que rodeaban la capital, fue clave para la victoria final británica, ya que dejó a Puerto Argentino indefenso ante el asalto final."
+        }
+      ],
       "images": ["https://picsum.photos/seed/malvinas-1/600/400", "https://picsum.photos/seed/malvinas-2/600/400", "https://picsum.photos/seed/malvinas-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas"],
       "tags": ["guerra internacional", "Reino Unido", "Malvinas", "siglo XX", "dictadura"],
