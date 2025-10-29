@@ -4,7 +4,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } f
 import { ScrollArea } from '@/components/ui/scroll-area';
 import Image from 'next/image';
 import { Badge } from '@/components/ui/badge';
-import { Calendar, BookOpen, Link as LinkIcon, Tag, Star, Users } from 'lucide-react';
+import { Calendar, BookOpen, Link as LinkIcon, Tag, Star, Users, Swords } from 'lucide-react';
 import {
   Accordion,
   AccordionContent,
@@ -17,6 +17,7 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 import { Button } from './ui/button';
+import { Separator } from './ui/separator';
 
 interface WarModalProps {
   war: War;
@@ -51,6 +52,52 @@ export function WarModal({ war, isOpen, onClose }: WarModalProps) {
               <h3 className="font-headline text-lg font-semibold mb-2">Descripción</h3>
               <p className="text-muted-foreground whitespace-pre-wrap">{war.description}</p>
             </div>
+
+            {war.battles && war.battles.length > 0 && (
+                <div>
+                    <h3 className="font-headline text-lg font-semibold mb-3 flex items-center">
+                        <Swords className="w-4 h-4 mr-2" />
+                        Batallas y Combates
+                    </h3>
+                    <Accordion type="single" collapsible className="w-full">
+                      {war.battles.map((battle, index) => (
+                        <AccordionItem value={`battle-${index}`} key={index}>
+                          <AccordionTrigger>{battle.title}</AccordionTrigger>
+                          <AccordionContent className="text-muted-foreground space-y-4">
+                            <div className="space-y-2">
+                                <p><strong className="text-foreground">Lugar:</strong> {battle.lugar}</p>
+                                <p><strong className="text-foreground">Resultado:</strong> {battle.resultado}</p>
+                            </div>
+                            <Separator />
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                <div>
+                                    <h5 className="font-semibold text-foreground mb-2">Comandantes Patriotas</h5>
+                                    <ul className="list-disc list-inside">
+                                        {battle.comandantesPatriotas.map(c => <li key={c}>{c}</li>)}
+                                    </ul>
+                                </div>
+                                <div>
+                                    <h5 className="font-semibold text-foreground mb-2">Comandantes Realistas</h5>
+                                     <ul className="list-disc list-inside">
+                                        {battle.comandantesRealistas.map(c => <li key={c}>{c}</li>)}
+                                    </ul>
+                                </div>
+                            </div>
+                             <Separator />
+                            <div>
+                               <h5 className="font-semibold text-foreground mb-2">Desarrollo</h5>
+                               <p>{battle.desarrollo}</p>
+                            </div>
+                            <div>
+                               <h5 className="font-semibold text-foreground mb-2">Importancia Histórica</h5>
+                               <p>{battle.importanciaHistorica}</p>
+                            </div>
+                          </AccordionContent>
+                        </AccordionItem>
+                      ))}
+                    </Accordion>
+                </div>
+            )}
             
             {war.turningPoints && war.turningPoints.length > 0 && (
                 <div>

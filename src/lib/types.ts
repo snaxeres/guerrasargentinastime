@@ -14,6 +14,16 @@ export interface ImportantFigure {
   countryOfDeath: string;
 }
 
+export interface Battle {
+  title: string;
+  lugar: string;
+  comandantesPatriotas: string[];
+  comandantesRealistas: string[];
+  desarrollo: string;
+  resultado: string;
+  importanciaHistorica: string;
+}
+
 export interface War {
   id: string;
   title: string;
@@ -23,6 +33,7 @@ export interface War {
   description: string;
   turningPoints: TurningPoint[];
   importantFigures: ImportantFigure[];
+  battles: Battle[];
   images: string[];
   sources: string[];
   tags: string[];

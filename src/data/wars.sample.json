@@ -18,6 +18,35 @@
         { "name": "Manuel Belgrano", "birthDate": "03/06/1770", "deathDate": "20/06/1820", "nationality": "Argentino", "causeOfDeath": "Hidropesía", "countryOfDeath": "Argentina" },
         { "name": "Martín Miguel de Güemes", "birthDate": "08/02/1785", "deathDate": "17/06/1821", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Argentina" }
       ],
+      "battles": [
+        {
+          "title": "Batalla de Cotagaita (1810)",
+          "lugar": "Cotagaita, Alto Perú (actual Bolivia)",
+          "comandantesPatriotas": ["Antonio González Balcarce"],
+          "comandantesRealistas": ["Vicente Nieto", "José de Córdoba y Rojas"],
+          "desarrollo": "Fue el primer enfrentamiento formal del Ejército del Norte contra las fuerzas realistas. Las tropas patriotas, mal equipadas y en menor número, atacaron las posiciones realistas fortificadas. A pesar del coraje inicial, la superioridad numérica y de posición de los realistas los obligó a retirarse.",
+          "resultado": "Derrota patriota.",
+          "importanciaHistorica": "Aunque fue una derrota, marcó el inicio de la guerra en el frente del Alto Perú. Demostró la necesidad de una mejor organización y equipamiento para enfrentar a los ejércitos realistas y fue una dura lección para la Primera Junta."
+        },
+        {
+          "title": "Batalla de Suipacha (1810)",
+          "lugar": "Suipacha, Alto Perú (actual Bolivia)",
+          "comandantesPatriotas": ["Antonio González Balcarce", "Juan José Castelli"],
+          "comandantesRealistas": ["José de Córdoba y Rojas"],
+          "desarrollo": "Pocas semanas después de Cotagaita, el Ejército del Norte preparó una emboscada. Fingieron una retirada que atrajo a las fuerzas realistas a una trampa. El grueso del ejército patriota, oculto, atacó por sorpresa, causando una desbandada total del ejército realista.",
+          "resultado": "Primera victoria patriota.",
+          "importanciaHistorica": "Tuvo un enorme impacto moral. Liberó el Alto Perú del control realista temporalmente, permitió el acceso a las minas de Potosí y consolidó el poder de la Primera Junta. Fue la primera gran victoria de las armas revolucionarias."
+        },
+        {
+          "title": "Batalla de Tucumán (1812)",
+          "lugar": "San Miguel de Tucumán",
+          "comandantesPatriotas": ["Manuel Belgrano"],
+          "comandantesRealistas": ["Pío Tristán"],
+          "desarrollo": "Desobedeciendo las órdenes de retirada de la Junta, Belgrano decidió enfrentar al ejército realista, que lo duplicaba en número. La batalla fue caótica, con una carga decisiva de la caballería gaucha y una tormenta de langostas que confundió a los combatientes. Los realistas, desorganizados, se retiraron.",
+          "resultado": "Victoria patriota decisiva.",
+          "importanciaHistorica": "Salvó la Revolución de Mayo. Frenó la mayor ofensiva realista hasta ese momento y aseguró el control del norte argentino, permitiendo que el proceso de independencia continuara. Es considerada una de las batallas más importantes de la guerra."
+        }
+      ],
       "images": ["https://picsum.photos/seed/arg-war-1/600/400", "https://picsum.photos/seed/arg-war-2/600/400", "https://picsum.photos/seed/arg-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_Argentina"],
       "tags": ["independencia", "San Martín", "Belgrano", "siglo XIX", "España"],
@@ -40,6 +69,7 @@
         { "name": "Justo José de Urquiza", "birthDate": "18/10/1801", "deathDate": "11/04/1870", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
         { "name": "Juan Lavalle", "birthDate": "17/10/1797", "deathDate": "09/10/1841", "nationality": "Argentino", "causeOfDeath": "Herida de bala", "countryOfDeath": "Bolivia" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/civil-war-1/600/400", "https://picsum.photos/seed/civil-war-2/600/400", "https://picsum.photos/seed/civil-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerras_civiles_argentinas"],
       "tags": ["guerra civil", "unitarios", "federales", "siglo XIX", "Rosas"],
@@ -62,6 +92,7 @@
         { "name": "Carlos María de Alvear", "birthDate": "25/10/1789", "deathDate": "03/11/1852", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Estados Unidos" },
         { "name": "Pedro I de Brasil", "birthDate": "12/10/1798", "deathDate": "24/09/1834", "nationality": "Brasileño-Portugués", "causeOfDeath": "Tuberculosis", "countryOfDeath": "Portugal" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/brasil-war-1/600/400", "https://picsum.photos/seed/brasil-war-2/600/400", "https://picsum.photos/seed/brasil-war-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_del_Brasil"],
       "tags": ["guerra internacional", "Brasil", "Uruguay", "siglo XIX", "Banda Oriental"],
@@ -81,6 +112,7 @@
       "importantFigures": [
         { "name": "Juan Manuel de Rosas", "birthDate": "30/03/1793", "deathDate": "14/03/1877", "nationality": "Argentino", "causeOfDeath": "Neumonía", "countryOfDeath": "Reino Unido" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/bloqueo-fr-1/600/400", "https://picsum.photos/seed/bloqueo-fr-2/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Bloqueo_franc%C3%A9s_al_R%C3%ADo_de_la_Plata"],
       "tags": ["bloqueo", "Francia", "Rosas", "siglo XIX", "diplomacia"],
@@ -101,6 +133,7 @@
         { "name": "Juan Manuel de Rosas", "birthDate": "30/03/1793", "deathDate": "14/03/1877", "nationality": "Argentino", "causeOfDeath": "Neumonía", "countryOfDeath": "Reino Unido" },
         { "name": "Lucio Norberto Mansilla", "birthDate": "04/03/1792", "deathDate": "10/04/1871", "nationality": "Argentino", "causeOfDeath": "Fiebre amarilla", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/vuelta-obligado/600/400", "https://picsum.photos/seed/bloqueo-anglo/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Bloqueo_anglo-franc%C3%A9s_del_R%C3%ADo_de_la_Plata"],
       "tags": ["Vuelta de Obligado", "soberanía", "Rosas", "siglo XIX", "Inglaterra"],
@@ -123,6 +156,7 @@
         { "name": "Francisco Solano López", "birthDate": "24/07/1827", "deathDate": "01/03/1870", "nationality": "Paraguayo", "causeOfDeath": "Herida de lanza", "countryOfDeath": "Paraguay" },
         { "name": "Duque de Caxias", "birthDate": "25/08/1803", "deathDate": "07/05/1880", "nationality": "Brasileño", "causeOfDeath": "Causas naturales", "countryOfDeath": "Brasil" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/triple-alianza-1/600/400", "https://picsum.photos/seed/triple-alianza-2/600/400", "https://picsum.photos/seed/triple-alianza-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_la_Triple_Alianza"],
       "tags": ["guerra internacional", "Paraguay", "Brasil", "siglo XIX", "Corrientes"],
@@ -137,12 +171,13 @@
       "description": "Inicio: La primera rebelión estalló en 1870, tras el asesinato de Justo José de Urquiza, del cual se culpó a López Jordán.\n\nMotivo: Fue la última gran expresión del federalismo provincial que se resistía a la autoridad del presidente Domingo F. Sarmiento y a la consolidación del estado nacional liberal.\n\nDesenlace: Hubo tres rebeliones en total. Todas fueron sofocadas por el ejército nacional, que demostró su creciente poder y organización. López Jordán fue finalmente derrotado y exiliado.\n\nConsecuencias: Marcó el fin de la era de los caudillos y las grandes rebeliones federales. El poder del gobierno central se impuso definitivamente, asegurando la unidad del país bajo el modelo porteño.",
       "turningPoints": [
         { "title": "Asesinato de Urquiza (1870)", "description": "El asesinato del ex presidente y caudillo entrerriano desata la crisis y sirve como pretexto para la intervención nacional en Entre Ríos." },
-        { "title": "Batalla de Ñaembé (1871)", "description": "El ejército nacional derrota decisivamente a López Jordán, poniendo fin a la primera y más poderosa de sus rebeliones." }
+        { "title": "Batalla de Ñaembé (1871)", "description": "El ejército nacional derrota decisively a López Jordán, poniendo fin a la primera y más poderosa de sus rebeliones." }
       ],
       "importantFigures": [
         { "name": "Ricardo López Jordán", "birthDate": "30/08/1822", "deathDate": "22/06/1889", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
         { "name": "Domingo F. Sarmiento", "birthDate": "15/02/1811", "deathDate": "11/09/1888", "nationality": "Argentino", "causeOfDeath": "Ataque al corazón", "countryOfDeath": "Paraguay" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/jordan-1/600/400", "https://picsum.photos/seed/jordan-2/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Rebeli%C3%B3n_jordanista"],
       "tags": ["rebelión", "federalismo", "Entre Ríos", "Sarmiento", "siglo XIX"],
@@ -165,6 +200,7 @@
         { "name": "Adolfo Alsina", "birthDate": "04/01/1829", "deathDate": "29/12/1877", "nationality": "Argentino", "causeOfDeath": "Insuficiencia renal", "countryOfDeath": "Argentina" },
         { "name": "Namuncurá", "birthDate": "c. 1811", "deathDate": "11/08/1908", "nationality": "Mapuche", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/desierto-1/600/400", "https://picsum.photos/seed/desierto-2/600/400", "https://picsum.photos/seed/desierto-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Conquista_del_Desierto"],
       "tags": ["campaña militar", "Patagonia", "Roca", "siglo XIX", "pueblos originarios"],
@@ -186,6 +222,7 @@
         { "name": "Bartolomé Mitre", "birthDate": "26/06/1821", "deathDate": "19/01/1906", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" },
         { "name": "Miguel Juárez Celman", "birthDate": "29/09/1844", "deathDate": "14/04/1909", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/parque-1/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_del_Parque"],
       "tags": ["revolución", "UCR", "siglo XIX", "Juárez Celman"],
@@ -205,6 +242,7 @@
       "importantFigures": [
         { "name": "Hipólito Yrigoyen", "birthDate": "12/07/1852", "deathDate": "03/07/1933", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/semana-tragica/600/400", "https://picsum.photos/seed/semana-tragica-2/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Semana_Tr%C3%A1gica_(Argentina)"],
       "tags": ["huelga", "obreros", "represión", "siglo XX", "Yrigoyen"],
@@ -225,6 +263,7 @@
         { "name": "Héctor Benigno Varela", "birthDate": "27/01/1875", "deathDate": "27/01/1923", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" },
         { "name": "Osvaldo Bayer", "birthDate": "18/02/1927", "deathDate": "24/12/2018", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/patagonia-1/600/400", "https://picsum.photos/seed/patagonia-2/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Patagonia_rebelde"],
       "tags": ["huelga", "fusilamientos", "Patagonia", "siglo XX", "ejército"],
@@ -245,6 +284,7 @@
         { "name": "José Félix Uriburu", "birthDate": "20/07/1868", "deathDate": "29/04/1932", "nationality": "Argentino", "causeOfDeath": "Cáncer de estómago", "countryOfDeath": "Francia" },
         { "name": "Agustín P. Justo", "birthDate": "26/02/1876", "deathDate": "11/01/1943", "nationality": "Argentino", "causeOfDeath": "Derrame cerebral", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/golpe-1930/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Argentina_de_1930"],
       "tags": ["golpe de estado", "Uriburu", "Yrigoyen", "siglo XX", "Década Infame"],
@@ -266,6 +306,7 @@
         { "name": "Eduardo Lonardi", "birthDate": "15/09/1896", "deathDate": "22/03/1956", "nationality": "Argentino", "causeOfDeath": "Cáncer", "countryOfDeath": "Argentina" },
         { "name": "Pedro Eugenio Aramburu", "birthDate": "21/05/1903", "deathDate": "01/06/1970", "nationality": "Argentino", "causeOfDeath": "Asesinato", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/libertadora-1/600/400", "https://picsum.photos/seed/bombardeo-1/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora"],
       "tags": ["golpe de estado", "Perón", "proscripción", "siglo XX", "bombardeo"],
@@ -287,6 +328,7 @@
         { "name": "Emilio Eduardo Massera", "birthDate": "19/10/1925", "deathDate": "08/11/2010", "nationality": "Argentino", "causeOfDeath": "ACV (en prisión domiciliaria)", "countryOfDeath": "Argentina" },
         { "name": "Leopoldo Galtieri", "birthDate": "15/07/1926", "deathDate": "12/01/2003", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/dictadura-1/600/400", "https://picsum.photos/seed/dictadura-2/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Proceso_de_Reorganizaci%C3%B3n_Nacional"],
       "tags": ["golpe de estado", "dictadura", "desaparecidos", "siglo XX", "terrorismo de estado"],
@@ -309,6 +351,7 @@
         { "name": "Margaret Thatcher", "birthDate": "13/10/1925", "deathDate": "08/04/2013", "nationality": "Británica", "causeOfDeath": "Accidente cerebrovascular", "countryOfDeath": "Reino Unido" },
         { "name": "Mario Benjamín Menéndez", "birthDate": "03/04/1930", "deathDate": "18/09/2015", "nationality": "Argentino", "causeOfDeath": "Causas naturales", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/malvinas-1/600/400", "https://picsum.photos/seed/malvinas-2/600/400", "https://picsum.photos/seed/malvinas-3/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas"],
       "tags": ["guerra internacional", "Reino Unido", "Malvinas", "siglo XX", "dictadura"],
@@ -329,6 +372,7 @@
         { "name": "Enrique Gorriarán Merlo", "birthDate": "18/10/1941", "deathDate": "19/09/2006", "nationality": "Argentino", "causeOfDeath": "Paro cardíaco", "countryOfDeath": "Argentina" },
         { "name": "Raúl Alfonsín", "birthDate": "12/03/1927", "deathDate": "31/03/2009", "nationality": "Argentino", "causeOfDeath": "Cáncer de pulmón", "countryOfDeath": "Argentina" }
       ],
+      "battles": [],
       "images": ["https://picsum.photos/seed/tablada-1/600/400"],
       "sources": ["https://es.wikipedia.org/wiki/Copamiento_del_cuartel_de_La_Tablada"],
       "tags": ["guerrilla", "MTP", "democracia", "Alfonsín", "siglo XX"],
